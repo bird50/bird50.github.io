@@ -2,12 +2,13 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ฺBird Flashcards</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100 min-h-screen flex flex-col items-center justify-start p-6">
-  <div class="w-full max-w-xl bg-white p-6 rounded-lg shadow-md">
-    <h1 class="text-2xl font-bold text-center mb-6 text-blue-700"><strong>Bird</strong> Flashcards </h1>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center justify-start p-4 sm:p-6">
+  <div class="w-full max-w-xl bg-white p-4 sm:p-6 rounded-lg shadow-md">
+    <h1 class="text-xl sm:text-2xl font-bold text-center mb-4 sm:mb-6 text-blue-700"><strong>Bird</strong> Flashcards </h1>
 
     <div class="mb-4">
       <label for="deck" class="block font-medium mb-1">เลือกชุดคำถาม:</label>
@@ -31,10 +32,10 @@
     <hr class="my-6">
 
     <div id="card-section" class="hidden">
-      <div id="flashcard" class="text-xl font-semibold mb-4 text-gray-800"></div>
-      <div id="answer" class="text-lg text-green-600 mb-4"></div>
+      <div id="flashcard" class="text-lg sm:text-xl font-semibold mb-4 text-gray-800"></div>
+      <div id="answer" class="text-base sm:text-lg text-green-600 mb-4"></div>
 
-      <div id="buttons" class="flex flex-wrap gap-2 mb-4">
+      <div id="buttons" class="flex flex-col sm:flex-row gap-2 mb-4">
         <button onclick="showAnswer()" class="flex-1 bg-yellow-400 text-black p-2 rounded hover:bg-yellow-500 transition">แสดงคำตอบ</button>
         <button onclick="markCorrect()" class="flex-1 bg-green-500 text-white p-2 rounded hover:bg-green-600 transition">ถูก</button>
         <button onclick="nextCard()" class="flex-1 bg-red-500 text-white p-2 rounded hover:bg-red-600 transition">ผิด / ข้าม</button>
@@ -42,7 +43,7 @@
 
       <button id="finish-button" onclick="finishQuiz()" class="w-full bg-gray-400 text-white p-2 rounded hover:bg-gray-500 transition hidden mb-4">จบแบบฝึกหัด</button>
 
-      <div id="score" class="text-center text-lg font-medium text-purple-700"></div>
+      <div id="score" class="text-center text-base sm:text-lg font-medium text-purple-700"></div>
     </div>
   </div>
 
