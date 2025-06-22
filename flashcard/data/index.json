@@ -1,4 +1,10 @@
 [
   { "file": "chin.json", "name": "พระคาถาชินบัญชร" },
-  { "file": "mahachakapat.json", "name": "พระคาถามหาจักรพรรดิ" }
+  { "file": "mahachakapat.json", "name": "พระคาถามหาจักรพรรดิ" },
+  { "file": "oxford3000_0-100.json", "name": "oxford 3000 1-100" },
+  { "file": "oxford3000_101-200.json", "name": "oxford 3000 101-200" },
+  { "file": "oxford3000_201-300.json", "name": "oxford 3000 201-300" },
+  { "file": "oxford3000_301-400.json", "name": "oxford 3000 301-400" },
+  { "file": "oxford3000_401-500.json", "name": "oxford 3000 401-500" },
+  { "file": "oxford3000_501-600.json", "name": "oxford 3000 501-600" }
 ]
