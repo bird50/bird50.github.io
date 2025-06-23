@@ -43,12 +43,21 @@ function showAnswer() {
 
 function markCorrect() {
     correct++;
-    nextCard();
+	a='correct';
+    nextCard(a);
 }
 
-function nextCard() {
+function markWrong() {
+	a='wrong';
+    nextCard(a);
+}
+
+function nextCard(a='correct') {
     const card = cards[index];
-    if (!document.getElementById("answer").innerHTML) {
+    /*if (!document.getElementById("answer").innerHTML) {
+        wrongCards.push(card);
+    }*/
+    if (a=='wrong') {
         wrongCards.push(card);
     }
     index++;
@@ -65,7 +74,7 @@ function finishQuiz() {
     document.getElementById("score").innerHTML =
         `คุณตอบถูก ${correct} จาก ${cards.length} ข้อ (${Math.round(correct / cards.length * 100)}%)`;
 
-    if (wrongCards.length > 0) {
+   /* if (wrongCards.length > 0) {
         const retryBtn = document.createElement("button");
         retryBtn.textContent = "ฝึกคำที่ตอบผิด";
         retryBtn.className = "w-full bg-red-500 text-white p-2 mt-2 rounded hover:bg-red-600 transition";
@@ -78,6 +87,7 @@ function finishQuiz() {
         clearBtn.onclick = clearWrongCards;
         document.getElementById("card-section").appendChild(clearBtn);
     }
+	   */
 }
 
 function reviewWrongCards() {
