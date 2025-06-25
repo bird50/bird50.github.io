@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ฺBird Flashcards</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+      .backface-hidden {
+        backface-visibility: hidden;
+      }
+    </style>
 </head>
 <body class="bg-gray-100 min-h-screen flex flex-col items-center justify-start p-4 sm:p-6">
   <div class="w-full max-w-xl bg-white p-4 sm:p-6 rounded-lg shadow-md">
@@ -37,11 +42,32 @@
     <hr class="my-6">
 
     <div id="card-section" class="hidden">
+	 
+	 <div id="flipCard"
+	        class="flip-card relative w-100 h-40 [perspective:1000px] cursor-pointer">
+
+	     <div id="innerCard" class="inner duration-700 [transform-style:preserve-3d] w-full h-full">
+
+	       <!-- Front -->
+	       <div class="absolute w-full h-full bg-white border rounded-xl shadow-lg backface-hidden flex items-center justify-center">
+	         <div id="flashcard" class="text-lg font-semibold text-gray-800"></div>
+	       </div>
+
+	       <!-- Back -->
+	       <div class="absolute w-full h-full bg-blue-500 text-white rounded-xl shadow-lg [transform:rotateY(180deg)] backface-hidden flex items-center justify-center">
+	         <div id="answer" class="text-lg font-semibold"></div>
+	       </div>
+
+	     </div><!---inner duration-700-->
+	   </div><!---onclick--><br/>
+	 <!---	
       <div id="flashcard" class="text-lg sm:text-xl font-semibold mb-4 text-gray-800"></div>
       <div id="answer" class="text-base sm:text-lg text-green-600 mb-4"></div>
-
+		 --->
       <div id="buttons" class="flex flex-col sm:flex-row gap-2 mb-4">
-        <button onclick="showAnswer()" class="flex-1 bg-yellow-400 text-black p-2 rounded hover:bg-yellow-500 transition">แสดงคำตอบ</button>
+        <!-- 
+		<button onclick="showAnswer()" class="flex-1 bg-yellow-400 text-black p-2 rounded hover:bg-yellow-500 transition">แสดงคำตอบ</button>
+			-->
         <button onclick="markCorrect()" class="flex-1 bg-green-500 text-white p-2 rounded hover:bg-green-600 transition">ถูก</button>
         <button onclick="markWrong()" class="flex-1 bg-red-500 text-white p-2 rounded hover:bg-red-600 transition">ผิด / ข้าม</button>
       </div>
@@ -51,7 +77,34 @@
       <div id="score" class="text-center text-base sm:text-lg font-medium text-purple-700"></div>
     </div>
   </div>
+  <script>
+	  const card = document.getElementById('flipCard');
+	  const inner = document.getElementById('innerCard');
+      // Toggle rotate class
+	  const flip = () => inner.classList.add('[transform:rotateY(180deg)]');
+	  const unflip = () => inner.classList.remove('[transform:rotateY(180deg)]');
+	  
 
+  // สำหรับ mouse
+      card.addEventListener('mousedown', flip);
+      card.addEventListener('mouseup', unflip);
+      card.addEventListener('mouseleave', unflip);
+  // สำหรับ touch (มือถือ)
+      card.addEventListener('touchstart', flip);
+      card.addEventListener('touchend', unflip);
+      card.addEventListener('touchcancel', unflip);
+	  /*
+      document.querySelectorAll('.flip-card').forEach(card => {
+        
+		card.addEventListener('click', () => {
+          const inner = card.querySelector('.inner');
+          inner.classList.toggle('[transform:rotateY(180deg)]');
+        });
+	
+		  
+      });
+	  */
+    </script>
   <script src="flashcards.js"></script>
 </body>
 </html>

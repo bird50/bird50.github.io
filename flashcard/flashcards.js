@@ -31,16 +31,17 @@ function showCard() {
 
     const card = cards[index];
     document.getElementById("flashcard").innerHTML = `คำถาม: ${card.question}`;
-    document.getElementById("answer").innerHTML = "";
+    //document.getElementById("answer").innerHTML = "";
+	document.getElementById("answer").innerHTML = `คำตอบ: ${card.answer}`;
     document.getElementById("buttons").style.display = "flex";
     document.getElementById("score").innerHTML = `ข้อที่ ${index + 1} จาก ${cards.length}`;
 }
-
+/*
 function showAnswer() {
     const card = cards[index];
     document.getElementById("answer").innerHTML = `คำตอบ: ${card.answer}`;
 }
-
+*/
 function markCorrect() {
     correct++;
 	a='correct';
