@@ -68,6 +68,7 @@
         <!-- 
 		<button onclick="showAnswer()" class="flex-1 bg-yellow-400 text-black p-2 rounded hover:bg-yellow-500 transition">แสดงคำตอบ</button>
 			-->
+		<button id="btnFlip"  class="flex-1 bg-yellow-400 text-black p-2 rounded hover:bg-yellow-500 transition">แสดงคำตอบ</button>
         <button onclick="markCorrect()" class="flex-1 bg-green-500 text-white p-2 rounded hover:bg-green-600 transition">ถูก</button>
         <button onclick="markWrong()" class="flex-1 bg-red-500 text-white p-2 rounded hover:bg-red-600 transition">ผิด / ข้าม</button>
       </div>
@@ -78,7 +79,7 @@
     </div>
   </div>
   <script>
-	  const card = document.getElementById('flipCard');
+	  const btnFlip = document.getElementById('btnFlip');
 	  const inner = document.getElementById('innerCard');
       // Toggle rotate class
 	  const flip = () => inner.classList.add('[transform:rotateY(180deg)]');
@@ -86,13 +87,13 @@
 	  
 
   // สำหรับ mouse
-      card.addEventListener('mousedown', flip);
-      card.addEventListener('mouseup', unflip);
-      card.addEventListener('mouseleave', unflip);
+      btnFlip.addEventListener('mousedown', flip);
+      btnFlip.addEventListener('mouseup', unflip);
+      btnFlip.addEventListener('mouseleave', unflip);
   // สำหรับ touch (มือถือ)
-      card.addEventListener('touchstart', flip);
-      card.addEventListener('touchend', unflip);
-      card.addEventListener('touchcancel', unflip);
+      btnFlip.addEventListener('touchstart', flip);
+      btnFlip.addEventListener('touchend', unflip);
+      btnFlip.addEventListener('touchcancel', unflip);
 	  /*
       document.querySelectorAll('.flip-card').forEach(card => {
         
