@@ -1,0 +1,6692 @@
+{
+  "format": "recall.deck",
+  "version": 1,
+  "id": "oxford3000-b1-user-v1",
+  "title": "Oxford 3000 · B1",
+  "description": "742 การ์ดจากไฟล์ oxford3000.csv ที่ผู้ใช้ให้มา • คำแปลไทยและประโยคตัวอย่างตามต้นฉบับ • คำหลายระดับอยู่ทุกระดับที่ระบุ ไม่ได้ตรวจรับรองการจัดระดับหรือคำแปลโดย Oxford",
+  "tags": [
+    "ภาษาอังกฤษ",
+    "Oxford 3000",
+    "B1"
+  ],
+  "cards": [
+    {
+      "id": "oxford3000-b1-row-16",
+      "front": {
+        "text": "age\n(n., v.)"
+      },
+      "back": {
+        "text": "อายุ\n\nตัวอย่าง: What is your age?\nคุณอายุเท่าไร\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-73",
+      "front": {
+        "text": "better\n(adj., adv., n.)"
+      },
+      "back": {
+        "text": "ดีกว่า\n\nตัวอย่าง: Today feels better than yesterday.\nวันนี้รู้สึกดีกว่าเมื่อวาน\n\nระดับในต้นฉบับ: A1/A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-108",
+      "front": {
+        "text": "by\n(prep., adv.)"
+      },
+      "back": {
+        "text": "โดย\n\nตัวอย่าง: The book was written by Ana.\nหนังสือเล่มนี้เขียนโดยอานา\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-123",
+      "front": {
+        "text": "center\n(n., v.)"
+      },
+      "back": {
+        "text": "ศูนย์\n\nตัวอย่าง: Meet me at the city center.\nพบฉันที่ใจกลางเมือง\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-127",
+      "front": {
+        "text": "cheap\n(adj., adv.)"
+      },
+      "back": {
+        "text": "ราคาถูก\n\nตัวอย่าง: This store sells cheap shoes.\nร้านนี้ขายรองเท้าราคาถูก\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-137",
+      "front": {
+        "text": "climb\n(v., n.)"
+      },
+      "back": {
+        "text": "ปีนขึ้นไป\n\nตัวอย่าง: They climbed the mountain slowly.\nพวกเขาปีนภูเขาอย่างช้า ๆ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-163",
+      "front": {
+        "text": "cream\n(n., adj.)"
+      },
+      "back": {
+        "text": "ครีม\n\nตัวอย่าง: She put cream in her coffee.\nเธอใส่ครีมในกาแฟ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-167",
+      "front": {
+        "text": "cut\n(v., n.)"
+      },
+      "back": {
+        "text": "ตัด\n\nตัวอย่าง: Cut the paper into strips.\nตัดกระดาษเป็นแถบ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-238",
+      "front": {
+        "text": "extra\n(adj., n., adv.)"
+      },
+      "back": {
+        "text": "พิเศษ\n\nตัวอย่าง: I need an extra chair.\nฉันต้องการเก้าอี้เพิ่ม\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-240",
+      "front": {
+        "text": "face\n(n., v.)"
+      },
+      "back": {
+        "text": "ใบหน้า\n\nตัวอย่าง: He faced the problem calmly.\nเขาเผชิญปัญหาอย่างสงบ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-246",
+      "front": {
+        "text": "far\n(adv., adj.)"
+      },
+      "back": {
+        "text": "ไกล\n\nตัวอย่าง: The village is far from town.\nหมู่บ้านอยู่ไกลจากเมือง\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-299",
+      "front": {
+        "text": "go\n(v., n.)"
+      },
+      "back": {
+        "text": "ไป\n\nตัวอย่าง: We go by bus.\nเราไปโดยรถประจำทาง\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-314",
+      "front": {
+        "text": "hand\n(n., v.)"
+      },
+      "back": {
+        "text": "มือ\n\nตัวอย่าง: Give me your hand.\nส่งมือให้ฉัน\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-319",
+      "front": {
+        "text": "hate\n(v., n.)"
+      },
+      "back": {
+        "text": "เกลียด; ความเกลียดชัง\n\nตัวอย่าง: I hate waiting in traffic.\nฉันเกลียดการรอรถติด\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-322",
+      "front": {
+        "text": "head\n(n., v.)"
+      },
+      "back": {
+        "text": "ศีรษะ; หัวหน้า; มุ่งหน้า\n\nตัวอย่าง: She nodded her head.\nเธอพยักหน้าของเธอ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-377",
+      "front": {
+        "text": "key\n(n., adj., v.)"
+      },
+      "back": {
+        "text": "ที่สำคัญ\n\nตัวอย่าง: Trust is the key issue.\nความไว้วางใจคือประเด็นสำคัญ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-398",
+      "front": {
+        "text": "like (find sb/sth pleasant)\n(v., n.)"
+      },
+      "back": {
+        "text": "ชอบ; ความชอบ\n\nตัวอย่าง: I like this song.\nฉันชอบเพลงนี้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-405",
+      "front": {
+        "text": "local\n(adj., n.)"
+      },
+      "back": {
+        "text": "ท้องถิ่น; คนท้องถิ่น\n\nตัวอย่าง: We support local businesses.\nเราสนับสนุนธุรกิจท้องถิ่น\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-453",
+      "front": {
+        "text": "move\n(v., n.)"
+      },
+      "back": {
+        "text": "เคลื่อนย้าย; การเคลื่อนไหว\n\nตัวอย่าง: Please move this chair.\nโปรดย้ายเก้าอี้ตัวนี้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-463",
+      "front": {
+        "text": "need\n(v., n., modal v.)"
+      },
+      "back": {
+        "text": "ต้องการ; ความต้องการ; จำเป็นต้อง\n\nตัวอย่าง: I need more time.\nฉันต้องการเวลาเพิ่ม\n\nระดับในต้นฉบับ: A1/A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-470",
+      "front": {
+        "text": "next\n(adj., adv., n.)"
+      },
+      "back": {
+        "text": "ถัดไป; ต่อไป\n\nตัวอย่าง: See you next week.\nเจอกันสัปดาห์หน้า\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-482",
+      "front": {
+        "text": "note\n(n., v.)"
+      },
+      "back": {
+        "text": "หมายเหตุ\n\nตัวอย่าง: Please note the meeting time.\nกรุณาจดเวลาเริ่มประชุม\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-485",
+      "front": {
+        "text": "now\n(adv., conj.)"
+      },
+      "back": {
+        "text": "ตอนนี้\n\nตัวอย่าง: Now we can begin the lesson.\nตอนนี้เราสามารถเริ่มบทเรียนได้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-498",
+      "front": {
+        "text": "once\n(adv., conj.)"
+      },
+      "back": {
+        "text": "ครั้งหนึ่ง\n\nตัวอย่าง: I have only been there once.\nฉันเคยไปที่นั่นแค่ครั้งเดียว\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-543",
+      "front": {
+        "text": "place\n(n., v.)"
+      },
+      "back": {
+        "text": "สถานที่\n\nตัวอย่าง: This is a good place to rest.\nนี่เป็นสถานที่ดีสำหรับพัก\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-550",
+      "front": {
+        "text": "point\n(n., v.)"
+      },
+      "back": {
+        "text": "จุด\n\nตัวอย่าง: Please point to the answer.\nโปรดชี้ไปที่คำตอบ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-568",
+      "front": {
+        "text": "program\n(n., v.)"
+      },
+      "back": {
+        "text": "โปรแกรม; เขียนโปรแกรม\n\nตัวอย่าง: I installed the new program yesterday.\nฉันติดตั้งโปรแกรมใหม่เมื่อวานนี้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-588",
+      "front": {
+        "text": "repeat\n(v., n.)"
+      },
+      "back": {
+        "text": "ทำซ้ำ; การทำซ้ำ\n\nตัวอย่าง: Please repeat the question.\nโปรดพูดคำถามซ้ำ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-591",
+      "front": {
+        "text": "result\n(n., v.)"
+      },
+      "back": {
+        "text": "ผลลัพธ์; เป็นผล\n\nตัวอย่าง: The result surprised everyone.\nผลลัพธ์ทำให้ทุกคนประหลาดใจ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-600",
+      "front": {
+        "text": "rule\n(n., v.)"
+      },
+      "back": {
+        "text": "กฎ; ปกครอง\n\nตัวอย่าง: Follow the rules during the game.\nปฏิบัติตามกฎระหว่างเล่นเกม\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-621",
+      "front": {
+        "text": "share\n(v., n.)"
+      },
+      "back": {
+        "text": "แบ่งปัน; ส่วนแบ่ง\n\nตัวอย่าง: Please share the cake with your sister.\nกรุณาแบ่งเค้กกับน้องสาวของคุณ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-643",
+      "front": {
+        "text": "slow\n(adj., v.)"
+      },
+      "back": {
+        "text": "ช้า; ทำให้ช้าลง\n\nตัวอย่าง: Heavy traffic slowed the bus.\nการจราจรหนาแน่นทำให้รถบัสช้าลง\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-666",
+      "front": {
+        "text": "spring\n(n., v.)"
+      },
+      "back": {
+        "text": "ฤดูใบไม้ผลิ\n\nตัวอย่าง: The flowers bloom in spring.\nดอกไม้บานในฤดูใบไม้ผลิ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-674",
+      "front": {
+        "text": "store\n(n., v.)"
+      },
+      "back": {
+        "text": "จัดเก็บ\n\nตัวอย่าง: Store the files in a safe place.\nเก็บไฟล์ไว้ในที่ปลอดภัย\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-689",
+      "front": {
+        "text": "swim\n(v., n.)"
+      },
+      "back": {
+        "text": "ว่ายน้ำ\n\nตัวอย่าง: We swim in the pool every Saturday.\nเราว่ายน้ำในสระทุกวันเสาร์\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-710",
+      "front": {
+        "text": "that\n(det., pron., conj., adv.)"
+      },
+      "back": {
+        "text": "นั่น\n\nตัวอย่าง: That restaurant is always busy.\nร้านอาหารนั้นคนแน่นเสมอ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-723",
+      "front": {
+        "text": "this\n(det./pron., adv.)"
+      },
+      "back": {
+        "text": "นี้\n\nตัวอย่าง: This jacket is too small for me.\nเสื้อแจ็กเก็ตตัวนี้เล็กเกินไปสำหรับฉัน\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-757",
+      "front": {
+        "text": "type\n(n., v.)"
+      },
+      "back": {
+        "text": "ประเภท\n\nตัวอย่าง: Please type your name here.\nโปรดพิมพ์ชื่อของคุณที่นี่\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-780",
+      "front": {
+        "text": "warm\n(adj., v.)"
+      },
+      "back": {
+        "text": "อบอุ่น\n\nตัวอย่าง: Warm the milk before serving it.\nอุ่นนมก่อนเสิร์ฟ\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-801",
+      "front": {
+        "text": "will\n(modal v., n.)"
+      },
+      "back": {
+        "text": "จะ\n\nตัวอย่าง: I will send the report tomorrow.\nฉันจะส่งรายงานพรุ่งนี้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-802",
+      "front": {
+        "text": "win\n(v., n.)"
+      },
+      "back": {
+        "text": "ชนะ\n\nตัวอย่าง: Our team hopes to win the match.\nทีมของเราหวังจะชนะการแข่งขัน\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-816",
+      "front": {
+        "text": "wrong\n(adj., adv., n.)"
+      },
+      "back": {
+        "text": "ผิด\n\nตัวอย่าง: You have the wrong number.\nคุณโทรผิดเบอร์\n\nระดับในต้นฉบับ: A1/B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-824",
+      "front": {
+        "text": "young\n(adj., n.)"
+      },
+      "back": {
+        "text": "หนุ่มสาว\n\nตัวอย่าง: The young need safe places to learn.\nคนหนุ่มสาวต้องการสถานที่ปลอดภัยเพื่อเรียนรู้\n\nระดับในต้นฉบับ: A1/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-833",
+      "front": {
+        "text": "act\n(v., n.)"
+      },
+      "back": {
+        "text": "กระทำ\n\nตัวอย่าง: Please act quickly now.\nโปรดลงมือทำอย่างรวดเร็วตอนนี้\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-850",
+      "front": {
+        "text": "alternative\n(n., adj.)"
+      },
+      "back": {
+        "text": "ทางเลือก, ที่มีตัวเลือก\n\nตัวอย่าง: Try the cheaper alternative.\nลองใช้ทางเลือกที่ถูกกว่า\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-880",
+      "front": {
+        "text": "average\n(adj., n., v.)"
+      },
+      "back": {
+        "text": "เฉลี่ย\n\nตัวอย่าง: The average score increased.\nคะแนนเฉลี่ยเพิ่มขึ้น\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-882",
+      "front": {
+        "text": "award\n(n., v.)"
+      },
+      "back": {
+        "text": "รางวัล\n\nตัวอย่าง: She won a science award.\nเธอได้รับรางวัลวิทยาศาสตร์\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-899",
+      "front": {
+        "text": "block\n(n., v.)"
+      },
+      "back": {
+        "text": "บล็อก\n\nตัวอย่าง: A fallen tree blocked the road.\nต้นไม้ที่ล้มบล็อกถนน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-902",
+      "front": {
+        "text": "board\n(n., v.)"
+      },
+      "back": {
+        "text": "คณะกรรมการ\n\nตัวอย่าง: The board approved the plan.\nคณะกรรมการอนุมัติแผน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-946",
+      "front": {
+        "text": "clear\n(adj., v.)"
+      },
+      "back": {
+        "text": "ชัดเจน\n\nตัวอย่าง: The water looks clear.\nน้ำดูใส\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-949",
+      "front": {
+        "text": "close\n(adj., adv.)"
+      },
+      "back": {
+        "text": "ใกล้; อย่างใกล้ชิด\n\nตัวอย่าง: We are close friends.\nเราเป็นเพื่อนสนิทกัน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-954",
+      "front": {
+        "text": "coach\n(n., v.)"
+      },
+      "back": {
+        "text": "โค้ช\n\nตัวอย่าง: Our coach encouraged the team.\nโค้ชของเราสนับสนุนทีม\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-961",
+      "front": {
+        "text": "comment\n(n., v.)"
+      },
+      "back": {
+        "text": "ความคิดเห็น\n\nตัวอย่าง: He left a comment below the photo.\nเขาแสดงความคิดเห็นใต้รูปภาพ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-981",
+      "front": {
+        "text": "count\n(v., n.)"
+      },
+      "back": {
+        "text": "นับ\n\nตัวอย่าง: Count the chairs in the room.\nนับเก้าอี้ในห้อง\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-982",
+      "front": {
+        "text": "cover\n(v., n.)"
+      },
+      "back": {
+        "text": "ปก\n\nตัวอย่าง: Clouds cover the mountain.\nเมฆปกคลุมภูเขา\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-987",
+      "front": {
+        "text": "criminal\n(n., adj.)"
+      },
+      "back": {
+        "text": "ทางอาญา\n\nตัวอย่าง: The criminal was caught yesterday.\nอาชญากรถูกจับเมื่อวาน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-993",
+      "front": {
+        "text": "daily\n(adj., adv.)"
+      },
+      "back": {
+        "text": "ทุกวัน\n\nตัวอย่าง: Daily exercise improves health.\nการออกกำลังกายทุกวันช่วยสุขภาพดีขึ้น\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-997",
+      "front": {
+        "text": "deal\n(v., n.)"
+      },
+      "back": {
+        "text": "จัดการ, ข้อตกลง\n\nตัวอย่าง: We made a fair deal.\nเราตกลงข้อตกลงที่ยุติธรรม\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1000",
+      "front": {
+        "text": "deep\n(adj., adv.)"
+      },
+      "back": {
+        "text": "ลึก\n\nตัวอย่าง: The water is very deep.\nน้ำนั้นลึกมาก\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1026",
+      "front": {
+        "text": "double\n(adj., det., pron., v., adv.)"
+      },
+      "back": {
+        "text": "สองเท่า\n\nตัวอย่าง: The room has double windows.\nห้องมีหน้าต่างสองชั้น\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1033",
+      "front": {
+        "text": "drop\n(v., n.)"
+      },
+      "back": {
+        "text": "หล่น\n\nตัวอย่าง: Do not drop the glass.\nอย่าทำแก้วหล่น\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1048",
+      "front": {
+        "text": "empty\n(adj., v.)"
+      },
+      "back": {
+        "text": "ว่างเปล่า\n\nตัวอย่าง: The bottle is empty.\nขวดว่างเปล่า\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1065",
+      "front": {
+        "text": "except\n(prep., conj.)"
+      },
+      "back": {
+        "text": "ยกเว้น, ละเว้น\n\nตัวอย่าง: Everyone came except Ben.\nทุกคนมานอกจากเบน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1068",
+      "front": {
+        "text": "experience\n(n., v.)"
+      },
+      "back": {
+        "text": "ประสบการณ์\n\nตัวอย่าง: Travel gives useful experience.\nการเดินทางให้ประสบการณ์ที่มีประโยชน์\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1069",
+      "front": {
+        "text": "experiment\n(n., v.)"
+      },
+      "back": {
+        "text": "การทดลอง\n\nตัวอย่าง: The class did a simple experiment.\nชั้นเรียนทำการทดลองง่าย ๆ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1081",
+      "front": {
+        "text": "fear\n(n., v.)"
+      },
+      "back": {
+        "text": "ความกลัว\n\nตัวอย่าง: Fear stopped him from speaking.\nความกลัวทำให้เขาพูดไม่ออก\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1082",
+      "front": {
+        "text": "feature\n(n., v.)"
+      },
+      "back": {
+        "text": "คุณสมบัติ\n\nตัวอย่าง: This phone has a useful feature.\nโทรศัพท์นี้มีคุณสมบัติที่มีประโยชน์\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1099",
+      "front": {
+        "text": "following\n(adj., n., prep.)"
+      },
+      "back": {
+        "text": "ถัดไป; ต่อไปนี้\n\nตัวอย่าง: Read the following instructions.\nอ่านคำแนะนำต่อไปนี้\n\nระดับในต้นฉบับ: A2/B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1108",
+      "front": {
+        "text": "further\n(adj., adv.)"
+      },
+      "back": {
+        "text": "เพิ่มเติม; ไกลกว่า\n\nตัวอย่าง: We need further information.\nเราต้องการข้อมูลเพิ่มเติม\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1189",
+      "front": {
+        "text": "knock\n(v., n.)"
+      },
+      "back": {
+        "text": "เคาะ\n\nตัวอย่าง: Someone knocked on the door.\nมีคนเคาะประตู\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1200",
+      "front": {
+        "text": "lead\n(v., n.)"
+      },
+      "back": {
+        "text": "นำ; การนำ\n\nตัวอย่าง: She leads the group well.\nเธอนำกลุ่มได้ดี\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1207",
+      "front": {
+        "text": "level\n(n., adj., v.)"
+      },
+      "back": {
+        "text": "ระดับ; ราบเรียบ; ทำให้เสมอ\n\nตัวอย่าง: The water level is rising.\nระดับน้ำกำลังสูงขึ้น\n\nระดับในต้นฉบับ: A2/B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1236",
+      "front": {
+        "text": "mention\n(v., n.)"
+      },
+      "back": {
+        "text": "กล่าวถึง; การกล่าวถึง\n\nตัวอย่าง: She did not mention the price.\nเธอไม่ได้กล่าวถึงราคา\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1249",
+      "front": {
+        "text": "musical\n(adj., n.)"
+      },
+      "back": {
+        "text": "เกี่ยวกับดนตรี; เพลง\n\nตัวอย่าง: He joined the musical group.\nเขาเข้าร่วมวงดนตรี\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1257",
+      "front": {
+        "text": "neither\n(det./pron., adv.)"
+      },
+      "back": {
+        "text": "ไม่ทั้งสอง; ก็ไม่\n\nตัวอย่าง: Neither answer is correct.\nไม่มีคำตอบใดถูกต้อง\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1263",
+      "front": {
+        "text": "normal\n(adj., n.)"
+      },
+      "back": {
+        "text": "ปกติ\n\nตัวอย่าง: This reaction is perfectly normal.\nปฏิกิริยานี้เป็นเรื่องปกติ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1277",
+      "front": {
+        "text": "original\n(adj., n.)"
+      },
+      "back": {
+        "text": "ต้นฉบับ\n\nตัวอย่าง: This is the original painting.\nนี่คือภาพวาดต้นฉบับ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1279",
+      "front": {
+        "text": "overseas\n(adv., adj.)"
+      },
+      "back": {
+        "text": "ต่างประเทศ, โพ้นทะเล\n\nตัวอย่าง: She works overseas every summer.\nเธอทำงานต่างประเทศทุกฤดูร้อน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1281",
+      "front": {
+        "text": "pack\n(v., n.)"
+      },
+      "back": {
+        "text": "บรรจุ\n\nตัวอย่าง: Pack your clothes tonight.\nเก็บเสื้อผ้าของคุณคืนนี้\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1287",
+      "front": {
+        "text": "pass\n(v., n.)"
+      },
+      "back": {
+        "text": "ผ่าน\n\nตัวอย่าง: You must pass the exam.\nคุณต้องผ่านการสอบ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1335",
+      "front": {
+        "text": "push\n(v., n.)"
+      },
+      "back": {
+        "text": "ผลัก; การผลัก\n\nตัวอย่าง: Push the heavy cart slowly forward.\nผลักรถเข็นหนักไปข้างหน้าช้าๆ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1342",
+      "front": {
+        "text": "raise\n(v., n.)"
+      },
+      "back": {
+        "text": "ยก; เพิ่ม; การขึ้นเงินเดือน\n\nตัวอย่าง: They raised the ticket price.\nพวกเขาขึ้นราคาตั๋ว\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1364",
+      "front": {
+        "text": "repair\n(v., n.)"
+      },
+      "back": {
+        "text": "ซ่อมแซม; การซ่อม\n\nตัวอย่าง: They repaired the broken window.\nพวกเขาซ่อมหน้าต่างที่แตก\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1367",
+      "front": {
+        "text": "request\n(n., v.)"
+      },
+      "back": {
+        "text": "คำขอ; ร้องขอ\n\nตัวอย่าง: I have one request.\nฉันมีคำขอหนึ่งข้อ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1376",
+      "front": {
+        "text": "ring\n(v., n.)"
+      },
+      "back": {
+        "text": "โทรศัพท์; เสียงกริ่ง\n\nตัวอย่าง: Please ring me tonight.\nโปรดโทรหาฉันคืนนี้\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1388",
+      "front": {
+        "text": "sail\n(v., n.)"
+      },
+      "back": {
+        "text": "แล่นเรือ; ใบเรือ\n\nตัวอย่าง: The boat will sail at noon.\nเรือจะแล่นออกตอนเที่ยง\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1406",
+      "front": {
+        "text": "separate\n(adj., v.)"
+      },
+      "back": {
+        "text": "แยก; แยกออก\n\nตัวอย่าง: Keep raw meat separate from vegetables.\nแยกเนื้อดิบออกจากผัก\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1411",
+      "front": {
+        "text": "shake\n(v., n.)"
+      },
+      "back": {
+        "text": "เขย่า; การเขย่า\n\nตัวอย่าง: Shake the bottle before you open it.\nเขย่าขวดก่อนเปิด\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1446",
+      "front": {
+        "text": "sort\n(n., v.)"
+      },
+      "back": {
+        "text": "ประเภท; จัดเรียง\n\nตัวอย่าง: Please sort the files by date.\nกรุณาจัดเรียงไฟล์ตามวันที่\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1457",
+      "front": {
+        "text": "state\n(n., adj., v.)"
+      },
+      "back": {
+        "text": "ระบุ\n\nตัวอย่าง: Please state your reason clearly.\nกรุณาระบุเหตุผลของคุณให้ชัดเจน\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1476",
+      "front": {
+        "text": "suit\n(n., v.)"
+      },
+      "back": {
+        "text": "สูท\n\nตัวอย่าง: He wore a dark suit to the interview.\nเขาสวมสูทสีเข้มไปสัมภาษณ์\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1500",
+      "front": {
+        "text": "tip\n(n., v.)"
+      },
+      "back": {
+        "text": "ทิป\n\nตัวอย่าง: We left a tip for the waiter.\nเราให้ทิปแก่พนักงานเสิร์ฟ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1503",
+      "front": {
+        "text": "touch\n(v., n.)"
+      },
+      "back": {
+        "text": "สัมผัส\n\nตัวอย่าง: Do not touch the wet paint.\nอย่าสัมผัสสีที่ยังเปียก\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1504",
+      "front": {
+        "text": "tour\n(n., v.)"
+      },
+      "back": {
+        "text": "ทัวร์\n\nตัวอย่าง: We took a tour of the old city.\nเราไปทัวร์เมืองเก่า\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1537",
+      "front": {
+        "text": "wave\n(n., v.)"
+      },
+      "back": {
+        "text": "คลื่น\n\nตัวอย่าง: She waved goodbye from the train.\nเธอโบกมือลาจากบนรถไฟ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1543",
+      "front": {
+        "text": "while\n(conj., n.)"
+      },
+      "back": {
+        "text": "ในขณะที่\n\nตัวอย่าง: Please wait here while I check.\nกรุณารอที่นี่ขณะที่ฉันตรวจสอบ\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1544",
+      "front": {
+        "text": "whole\n(adj., n.)"
+      },
+      "back": {
+        "text": "ทั้งหมด\n\nตัวอย่าง: I spent the whole day cleaning.\nฉันใช้เวลาทั้งวันทำความสะอาด\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1554",
+      "front": {
+        "text": "worry\n(v., n.)"
+      },
+      "back": {
+        "text": "กังวล\n\nตัวอย่าง: Do not worry about the delay.\nอย่ากังวลเรื่องความล่าช้า\n\nระดับในต้นฉบับ: A2/B1 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1555",
+      "front": {
+        "text": "worse\n(adj., adv., n.)"
+      },
+      "back": {
+        "text": "แย่ลง\n\nตัวอย่าง: The weather became worse after noon.\nสภาพอากาศแย่ลงหลังเที่ยง\n\nระดับในต้นฉบับ: A2/B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1556",
+      "front": {
+        "text": "worst\n(adj., adv., n.)"
+      },
+      "back": {
+        "text": "แย่ที่สุด\n\nตัวอย่าง: That was the worst storm this year.\nนั่นเป็นพายุที่แย่ที่สุดในปีนี้\n\nระดับในต้นฉบับ: A2/B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1561",
+      "front": {
+        "text": "absolutely\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างแน่นอน\n\nตัวอย่าง: I absolutely agree with you.\nฉันเห็นด้วยกับคุณอย่างแน่นอน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1562",
+      "front": {
+        "text": "academic\n(adj.)"
+      },
+      "back": {
+        "text": "วิชาการ\n\nตัวอย่าง: She enjoys academic writing.\nเธอชอบการเขียนเชิงวิชาการ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1563",
+      "front": {
+        "text": "access\n(n., v.)"
+      },
+      "back": {
+        "text": "การเข้าถึง\n\nตัวอย่าง: Students can access the library online.\nนักเรียนสามารถเข้าถึงห้องสมุดทางออนไลน์ได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1564",
+      "front": {
+        "text": "account\n(n., v.)"
+      },
+      "back": {
+        "text": "บัญชี\n\nตัวอย่าง: I opened a new bank account.\nฉันเปิดบัญชีธนาคารใหม่\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1565",
+      "front": {
+        "text": "achievement\n(n.)"
+      },
+      "back": {
+        "text": "ความสำเร็จ\n\nตัวอย่าง: Finishing the race was an achievement.\nการวิ่งจบการแข่งขันเป็นความสำเร็จ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1566",
+      "front": {
+        "text": "ad\n(n.)"
+      },
+      "back": {
+        "text": "โฆษณา\n\nตัวอย่าง: I saw the ad online.\nฉันเห็นโฆษณาทางออนไลน์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1567",
+      "front": {
+        "text": "addition\n(n.)"
+      },
+      "back": {
+        "text": "นอกจากนี้\n\nตัวอย่าง: In addition, bring your passport.\nนอกจากนี้ให้นำหนังสือเดินทางมาด้วย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1568",
+      "front": {
+        "text": "administration\n(n.)"
+      },
+      "back": {
+        "text": "การบริหารงาน\n\nตัวอย่าง: School administration sent the email.\nฝ่ายบริหารโรงเรียนส่งอีเมล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1569",
+      "front": {
+        "text": "admire\n(v.)"
+      },
+      "back": {
+        "text": "ชมเชย, นับถือ\n\nตัวอย่าง: I admire her courage.\nฉันชื่นชมความกล้าหาญของเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1570",
+      "front": {
+        "text": "admit\n(v.)"
+      },
+      "back": {
+        "text": "ยอมรับ\n\nตัวอย่าง: He admitted his mistake.\nเขายอมรับความผิดพลาดของตน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1571",
+      "front": {
+        "text": "advanced\n(adj.)"
+      },
+      "back": {
+        "text": "ขั้นสูง\n\nตัวอย่าง: This is an advanced class.\nนี่คือชั้นเรียนระดับสูง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1572",
+      "front": {
+        "text": "advise\n(v.)"
+      },
+      "back": {
+        "text": "ให้คำแนะนำ\n\nตัวอย่าง: I advise you to rest.\nฉันแนะนำให้คุณพักผ่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1573",
+      "front": {
+        "text": "agent\n(n.)"
+      },
+      "back": {
+        "text": "ตัวแทน\n\nตัวอย่าง: Our agent booked the tickets.\nตัวแทนของเราจองตั๋วแล้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1574",
+      "front": {
+        "text": "agreement\n(n.)"
+      },
+      "back": {
+        "text": "ข้อตกลง\n\nตัวอย่าง: They signed the agreement.\nพวกเขาลงนามในข้อตกลง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1575",
+      "front": {
+        "text": "ahead\n(adv.)"
+      },
+      "back": {
+        "text": "ข้างหน้า\n\nตัวอย่าง: Go straight ahead.\nเดินตรงไปข้างหน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1576",
+      "front": {
+        "text": "aim\n(v., n.)"
+      },
+      "back": {
+        "text": "จุดมุ่งหมาย\n\nตัวอย่าง: Our aim is to improve.\nเป้าหมายของเราคือการพัฒนา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1577",
+      "front": {
+        "text": "alarm\n(n., v.)"
+      },
+      "back": {
+        "text": "ปลุก\n\nตัวอย่าง: Set the alarm for six.\nตั้งนาฬิกาปลุกไว้หกโมง\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1578",
+      "front": {
+        "text": "album\n(n.)"
+      },
+      "back": {
+        "text": "อัลบั้ม\n\nตัวอย่าง: This album has ten songs.\nอัลบั้มนี้มีสิบเพลง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1579",
+      "front": {
+        "text": "alcohol\n(n.)"
+      },
+      "back": {
+        "text": "แอลกอฮอล์\n\nตัวอย่าง: Alcohol is not allowed here.\nไม่อนุญาตให้ดื่มแอลกอฮอล์ที่นี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1580",
+      "front": {
+        "text": "alcoholic\n(adj.)"
+      },
+      "back": {
+        "text": "ติดแอลกอฮอล์\n\nตัวอย่าง: He avoids alcoholic drinks.\nเขาหลีกเลี่ยงเครื่องดื่มแอลกอฮอล์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1581",
+      "front": {
+        "text": "amazed\n(adj.)"
+      },
+      "back": {
+        "text": "ประหลาดใจ\n\nตัวอย่าง: I was amazed by the view.\nฉันประหลาดใจกับวิว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1582",
+      "front": {
+        "text": "ambition\n(n.)"
+      },
+      "back": {
+        "text": "ความทะเยอทะยาน\n\nตัวอย่าง: Her ambition is to travel.\nความทะเยอทะยานของเธอคือการท่องเที่ยว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1583",
+      "front": {
+        "text": "analysis\n(n.)"
+      },
+      "back": {
+        "text": "การวิเคราะห์\n\nตัวอย่าง: The report needs careful analysis.\nรายงานต้องการการวิเคราะห์อย่างรอบคอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1584",
+      "front": {
+        "text": "announcement\n(n.)"
+      },
+      "back": {
+        "text": "ประกาศ\n\nตัวอย่าง: Read the school announcement.\nอ่านประกาศของโรงเรียน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1585",
+      "front": {
+        "text": "annoy\n(v.)"
+      },
+      "back": {
+        "text": "รบกวน, ทำให้รำคาญ\n\nตัวอย่าง: The noise annoys my baby.\nเสียงดังรบกวนลูกน้อยของฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1586",
+      "front": {
+        "text": "annoyed\n(adj.)"
+      },
+      "back": {
+        "text": "รำคาญ\n\nตัวอย่าง: I felt annoyed by the wait.\nฉันรู้สึกรำคาญที่ต้องรอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1587",
+      "front": {
+        "text": "annoying\n(adj.)"
+      },
+      "back": {
+        "text": "น่ารำคาญ\n\nตัวอย่าง: That sound is annoying.\nเสียงนั้นน่ารำคาญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1588",
+      "front": {
+        "text": "apart\n(adv.)"
+      },
+      "back": {
+        "text": "ออกจากกัน\n\nตัวอย่าง: The two houses stand apart.\nบ้านสองหลังตั้งแยกจากกัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1589",
+      "front": {
+        "text": "apologize\n(v.)"
+      },
+      "back": {
+        "text": "ขอโทษ\n\nตัวอย่าง: I apologize for being late.\nฉันขอโทษที่มาสาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1590",
+      "front": {
+        "text": "application\n(n.)"
+      },
+      "back": {
+        "text": "ใบสมัคร; การสมัคร\n\nตัวอย่าง: Send your application today.\nส่งใบสมัครของคุณวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1591",
+      "front": {
+        "text": "appointment\n(n.)"
+      },
+      "back": {
+        "text": "การนัดหมาย\n\nตัวอย่าง: My appointment is at noon.\nนัดของฉันคือตอนเที่ยง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1592",
+      "front": {
+        "text": "appreciate\n(v.)"
+      },
+      "back": {
+        "text": "ซาบซึ่ง, เห็นคุณค่า\n\nตัวอย่าง: I appreciate your help.\nฉันซาบซึ้งกับความช่วยเหลือของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1593",
+      "front": {
+        "text": "approximately\n(adv.)"
+      },
+      "back": {
+        "text": "ประมาณ\n\nตัวอย่าง: The trip takes approximately an hour.\nการเดินทางใช้เวลาประมาณหนึ่งชั่วโมง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1594",
+      "front": {
+        "text": "arrest\n(v., n.)"
+      },
+      "back": {
+        "text": "จับกุม, การชะงัก\n\nตัวอย่าง: Police arrested the thief.\nตำรวจจับกุมขโมย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1595",
+      "front": {
+        "text": "assignment\n(n.)"
+      },
+      "back": {
+        "text": "งานที่ได้รับมอบหมาย, การบ้าน\n\nตัวอย่าง: My assignment is due Friday.\nงานที่ได้รับมอบหมายของฉันส่งวันศุกร์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1596",
+      "front": {
+        "text": "assist\n(v.)"
+      },
+      "back": {
+        "text": "ช่วยเหลือ\n\nตัวอย่าง: Can I assist you?\nฉันช่วยคุณได้ไหม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1597",
+      "front": {
+        "text": "atmosphere\n(n.)"
+      },
+      "back": {
+        "text": "บรรยากาศ, ชั้นบรรยากาศ\n\nตัวอย่าง: The cafe has a warm atmosphere.\nคาเฟ่มีบรรยากาศอบอุ่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1598",
+      "front": {
+        "text": "attach\n(v.)"
+      },
+      "back": {
+        "text": "แนบ; ติด\n\nตัวอย่าง: Attach the photo to email.\nแนบรูปภาพกับอีเมล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1599",
+      "front": {
+        "text": "attitude\n(n.)"
+      },
+      "back": {
+        "text": "ทัศนคติ\n\nตัวอย่าง: Her attitude is positive.\nทัศนคติของเธอเป็นบวก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1600",
+      "front": {
+        "text": "attract\n(v.)"
+      },
+      "back": {
+        "text": "ดึงดูด\n\nตัวอย่าง: Flowers attract bees.\nดอกไม้ดึงดูดผึ้ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1601",
+      "front": {
+        "text": "attraction\n(n.)"
+      },
+      "back": {
+        "text": "แหล่งท่องเที่ยว\n\nตัวอย่าง: The beach is a local attraction.\nชายหาดเป็นแหล่งท่องเที่ยวในท้องถิ่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1602",
+      "front": {
+        "text": "authority\n(n.)"
+      },
+      "back": {
+        "text": "ผู้มีอำนาจ\n\nตัวอย่าง: Ask the local authority.\nถามหน่วยงานท้องถิ่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1603",
+      "front": {
+        "text": "automatic\n(adj.)"
+      },
+      "back": {
+        "text": "อัตโนมัติ\n\nตัวอย่าง: The doors open automatically.\nประตูเปิดโดยอัตโนมัติ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1604",
+      "front": {
+        "text": "automatically\n(adv.)"
+      },
+      "back": {
+        "text": "โดยอัตโนมัติ\n\nตัวอย่าง: The file saves automatically.\nไฟล์บันทึกโดยอัตโนมัติ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1605",
+      "front": {
+        "text": "aware\n(adj.)"
+      },
+      "back": {
+        "text": "ตระหนักรู้, รู้สึกตัว\n\nตัวอย่าง: Be aware of the traffic.\nระวังการจราจร"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1606",
+      "front": {
+        "text": "bake\n(v.)"
+      },
+      "back": {
+        "text": "อบ\n\nตัวอย่าง: We bake bread on Sundays.\nเราอบขนมปังวันอาทิตย์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1607",
+      "front": {
+        "text": "balance\n(n., v.)"
+      },
+      "back": {
+        "text": "ยอดคงเหลือ\n\nตัวอย่าง: Keep your balance on ice.\nรักษาสมดุลบนพื้นน้ำแข็ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1608",
+      "front": {
+        "text": "ban\n(v., n.)"
+      },
+      "back": {
+        "text": "ห้าม\n\nตัวอย่าง: They banned phones in class.\nพวกเขาห้ามใช้โทรศัพท์ในชั้นเรียน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1609",
+      "front": {
+        "text": "bank (river)\n(n.)"
+      },
+      "back": {
+        "text": "ตลิ่งแม่น้ำ\n\nตัวอย่าง: We sat on the river bank.\nเรานั่งบนตลิ่งแม่น้ำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1610",
+      "front": {
+        "text": "base\n(n., v.)"
+      },
+      "back": {
+        "text": "ฐาน\n\nตัวอย่าง: The lamp has a wide base.\nโคมไฟมีฐานกว้าง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1611",
+      "front": {
+        "text": "basic\n(adj.)"
+      },
+      "back": {
+        "text": "ขั้นพื้นฐาน\n\nตัวอย่าง: Start with basic words.\nเริ่มต้นด้วยคำศัพท์พื้นฐาน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1612",
+      "front": {
+        "text": "basis\n(n.)"
+      },
+      "back": {
+        "text": "พื้นฐาน\n\nตัวอย่าง: Trust is the basis of friendship.\nความไว้วางใจเป็นพื้นฐานของมิตรภาพ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1613",
+      "front": {
+        "text": "battery\n(n.)"
+      },
+      "back": {
+        "text": "แบตเตอรี่\n\nตัวอย่าง: My phone battery is low.\nแบตเตอรี่โทรศัพท์ของฉันใกล้หมด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1614",
+      "front": {
+        "text": "battle\n(n., v.)"
+      },
+      "back": {
+        "text": "การรบ\n\nตัวอย่าง: The battle ended at dawn.\nการรบสิ้นสุดตอนรุ่งเช้า\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1615",
+      "front": {
+        "text": "beauty\n(n.)"
+      },
+      "back": {
+        "text": "ความงาม\n\nตัวอย่าง: Beauty comes in many forms.\nความงามมีได้หลายรูปแบบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1616",
+      "front": {
+        "text": "bee\n(n.)"
+      },
+      "back": {
+        "text": "ผึ้ง\n\nตัวอย่าง: A bee landed on the yellow flower.\nผึ้งตัวหนึ่งเกาะบนดอกไม้สีเหลือง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1617",
+      "front": {
+        "text": "bell\n(n.)"
+      },
+      "back": {
+        "text": "ระฆัง\n\nตัวอย่าง: The bell rang at noon.\nระฆังดังตอนเที่ยง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1618",
+      "front": {
+        "text": "bend\n(v., n.)"
+      },
+      "back": {
+        "text": "โค้งงอ\n\nตัวอย่าง: The road bends near the lake.\nถนนโค้งใกล้ทะเลสาบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1619",
+      "front": {
+        "text": "bite\n(v., n.)"
+      },
+      "back": {
+        "text": "กัด\n\nตัวอย่าง: The dog tried to bite me.\nสุนัขพยายามกัดฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1620",
+      "front": {
+        "text": "bomb\n(n., v.)"
+      },
+      "back": {
+        "text": "ระเบิด\n\nตัวอย่าง: The bomb damaged the old bridge.\nระเบิดทำลายสะพานเก่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1621",
+      "front": {
+        "text": "border\n(n., v.)"
+      },
+      "back": {
+        "text": "ชายแดน\n\nตัวอย่าง: They crossed the border at dawn.\nพวกเขาข้ามชายแดนตอนรุ่งเช้า\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1622",
+      "front": {
+        "text": "bother\n(v.)"
+      },
+      "back": {
+        "text": "รบกวน\n\nตัวอย่าง: Sorry to bother you again.\nขอโทษที่รบกวนคุณอีกครั้ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1623",
+      "front": {
+        "text": "branch\n(n.)"
+      },
+      "back": {
+        "text": "สาขา\n\nตัวอย่าง: Our bank opened a new branch.\nธนาคารของเราเปิดสาขาใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1624",
+      "front": {
+        "text": "brand\n(n., v.)"
+      },
+      "back": {
+        "text": "แบรนด์/ตราสินค้า\n\nตัวอย่าง: That brand is very popular.\nแบรนด์นั้นเป็นที่นิยมมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1625",
+      "front": {
+        "text": "brave\n(adj.)"
+      },
+      "back": {
+        "text": "กล้าหาญ\n\nตัวอย่าง: The brave child spoke first.\nเด็กที่กล้าหาญพูดก่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1626",
+      "front": {
+        "text": "breath\n(n.)"
+      },
+      "back": {
+        "text": "ลมหายใจ\n\nตัวอย่าง: Take a deep breath slowly.\nหายใจเข้าลึก ๆ อย่างช้า ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1627",
+      "front": {
+        "text": "breathe\n(v.)"
+      },
+      "back": {
+        "text": "หายใจ\n\nตัวอย่าง: Please breathe through your nose.\nโปรดหายใจทางจมูก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1628",
+      "front": {
+        "text": "bride\n(n.)"
+      },
+      "back": {
+        "text": "เจ้าสาว\n\nตัวอย่าง: The bride wore a white dress.\nเจ้าสาวสวมชุดสีขาว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1629",
+      "front": {
+        "text": "bubble\n(n.)"
+      },
+      "back": {
+        "text": "ฟองสบู่\n\nตัวอย่าง: A bubble floated in the air.\nฟองสบู่ลอยอยู่ในอากาศ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1630",
+      "front": {
+        "text": "bury\n(v.)"
+      },
+      "back": {
+        "text": "ฝังศพ\n\nตัวอย่าง: They buried the treasure underground.\nพวกเขาฝังสมบัติใต้ดิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1631",
+      "front": {
+        "text": "cable\n(n.)"
+      },
+      "back": {
+        "text": "สายเคเบิล\n\nตัวอย่าง: The cable is under the desk.\nสายเคเบิลอยู่ใต้โต๊ะ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1632",
+      "front": {
+        "text": "calm\n(adj., v., n.)"
+      },
+      "back": {
+        "text": "สงบ\n\nตัวอย่าง: Stay calm during the test.\nสงบสติอารมณ์ระหว่างการทดสอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1633",
+      "front": {
+        "text": "campaign\n(n., v.)"
+      },
+      "back": {
+        "text": "แคมเปญ/การรณรงค์\n\nตัวอย่าง: The campaign starts next month.\nแคมเปญเริ่มเดือนหน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1634",
+      "front": {
+        "text": "candidate\n(n.)"
+      },
+      "back": {
+        "text": "ผู้สมัคร; ผู้เข้าสอบ/เข้าแข่งขัน\n\nตัวอย่าง: Each candidate gave a short speech.\nผู้สมัครแต่ละคนกล่าวสุนทรพจน์สั้น ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1635",
+      "front": {
+        "text": "cap\n(n.)"
+      },
+      "back": {
+        "text": "หมวก\n\nตัวอย่าง: He wore a red cap.\nเขาสวมหมวกสีแดง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1636",
+      "front": {
+        "text": "captain\n(n.)"
+      },
+      "back": {
+        "text": "กัปตัน\n\nตัวอย่าง: The captain spoke to the crew.\nกัปตันพูดกับลูกเรือ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1637",
+      "front": {
+        "text": "careless\n(adj.)"
+      },
+      "back": {
+        "text": "ประมาท\n\nตัวอย่าง: A careless mistake caused trouble.\nความผิดพลาดจากความประมาททำให้เกิดปัญหา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1638",
+      "front": {
+        "text": "category\n(n.)"
+      },
+      "back": {
+        "text": "หมวดหมู่, ประเภท\n\nตัวอย่าง: Choose the correct category.\nเลือกหมวดหมู่ที่ถูกต้อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1639",
+      "front": {
+        "text": "celebration\n(n.)"
+      },
+      "back": {
+        "text": "การเฉลิมฉลอง\n\nตัวอย่าง: The celebration lasted all night.\nการเฉลิมฉลองดำเนินตลอดคืน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1640",
+      "front": {
+        "text": "central\n(adj.)"
+      },
+      "back": {
+        "text": "ศูนย์กลาง\n\nตัวอย่าง: The library is centrally located.\nห้องสมุดตั้งอยู่ใจกลางเมือง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1641",
+      "front": {
+        "text": "ceremony\n(n.)"
+      },
+      "back": {
+        "text": "พิธีกรรม\n\nตัวอย่าง: The ceremony begins at ten.\nพิธีเริ่มตอนสิบโมง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1642",
+      "front": {
+        "text": "chain\n(n., v.)"
+      },
+      "back": {
+        "text": "โซ่\n\nตัวอย่าง: The dog was tied with a chain.\nสุนัขถูกล่ามด้วยโซ่\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1643",
+      "front": {
+        "text": "challenge\n(n., v.)"
+      },
+      "back": {
+        "text": "ท้าทาย, กระตุ้น\n\nตัวอย่าง: Learning a language is a challenge.\nการเรียนภาษาเป็นความท้าทาย\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1644",
+      "front": {
+        "text": "champion\n(n.)"
+      },
+      "back": {
+        "text": "แชมป์\n\nตัวอย่าง: The champion raised the trophy.\nแชมป์ชูถ้วยรางวัล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1645",
+      "front": {
+        "text": "channel\n(n.)"
+      },
+      "back": {
+        "text": "ช่อง\n\nตัวอย่าง: Watch this channel tonight.\nดูช่องนี้คืนนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1646",
+      "front": {
+        "text": "chapter\n(n.)"
+      },
+      "back": {
+        "text": "บท\n\nตัวอย่าง: Read chapter three tonight.\nอ่านบทที่สามคืนนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1647",
+      "front": {
+        "text": "charge\n(n., v.)"
+      },
+      "back": {
+        "text": "ค่าบริการ; เรียกเก็บ\n\nตัวอย่าง: They charge ten dollars for delivery.\nพวกเขาเรียกเก็บสิบดอลลาร์สำหรับการส่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1648",
+      "front": {
+        "text": "cheat\n(v., n.)"
+      },
+      "back": {
+        "text": "คดโกง\n\nตัวอย่าง: Do not cheat on the exam.\nอย่าโกงข้อสอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1649",
+      "front": {
+        "text": "cheerful\n(adj.)"
+      },
+      "back": {
+        "text": "ร่าเริง\n\nตัวอย่าง: Her cheerful smile welcomed us.\nรอยยิ้มร่าเริงของเธอต้อนรับเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1650",
+      "front": {
+        "text": "chest\n(n.)"
+      },
+      "back": {
+        "text": "หน้าอก\n\nตัวอย่าง: He felt pain in his chest.\nเขารู้สึกเจ็บที่หน้าอก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1651",
+      "front": {
+        "text": "childhood\n(n.)"
+      },
+      "back": {
+        "text": "วัยเด็ก\n\nตัวอย่าง: She remembers her childhood clearly.\nเธอจำวัยเด็กของเธอได้ชัดเจน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1652",
+      "front": {
+        "text": "claim\n(v., n.)"
+      },
+      "back": {
+        "text": "การเรียกร้อง, อ้าง\n\nตัวอย่าง: She claimed the bag was hers.\nเธออ้างว่ากระเป๋าใบนั้นเป็นของเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1653",
+      "front": {
+        "text": "clause\n(n.)"
+      },
+      "back": {
+        "text": "ข้อ\n\nตัวอย่าง: This clause changes the agreement.\nข้อนี้เปลี่ยนข้อตกลง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1654",
+      "front": {
+        "text": "clever\n(adj.)"
+      },
+      "back": {
+        "text": "ฉลาด\n\nตัวอย่าง: That was a clever solution.\nนั่นเป็นวิธีแก้ปัญหาที่ฉลาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1655",
+      "front": {
+        "text": "click\n(v., n.)"
+      },
+      "back": {
+        "text": "คลิก\n\nตัวอย่าง: Click the link below.\nคลิกลิงก์ด้านล่าง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1656",
+      "front": {
+        "text": "client\n(n.)"
+      },
+      "back": {
+        "text": "ลูกค้า (เชิงธุรกิจ)\n\nตัวอย่าง: The client approved the design.\nลูกค้าอนุมัติแบบออกแบบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1657",
+      "front": {
+        "text": "cloth\n(n.)"
+      },
+      "back": {
+        "text": "ผ้า\n\nตัวอย่าง: This cloth feels smooth.\nผ้าผืนนี้ให้ความรู้สึกเรียบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1658",
+      "front": {
+        "text": "clue\n(n.)"
+      },
+      "back": {
+        "text": "เบาะแส\n\nตัวอย่าง: The map gave us a clue.\nแผนที่ให้เบาะแสแก่เรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1659",
+      "front": {
+        "text": "coal\n(n.)"
+      },
+      "back": {
+        "text": "ถ่านหิน\n\nตัวอย่าง: Coal can produce much heat.\nถ่านหินสามารถให้ความร้อนมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1660",
+      "front": {
+        "text": "coin\n(n.)"
+      },
+      "back": {
+        "text": "เหรียญ\n\nตัวอย่าง: He found an old coin.\nเขาพบเหรียญเก่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1661",
+      "front": {
+        "text": "colored\n(adj.)"
+      },
+      "back": {
+        "text": "มีสี\n\nตัวอย่าง: The colored lights looked beautiful.\nไฟหลากสีดูสวยงาม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1662",
+      "front": {
+        "text": "combine\n(v.)"
+      },
+      "back": {
+        "text": "รวม\n\nตัวอย่าง: Combine flour and water slowly.\nผสมแป้งกับน้ำอย่างช้า ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1663",
+      "front": {
+        "text": "commercial\n(adj., n.)"
+      },
+      "back": {
+        "text": "เชิงพาณิชย์\n\nตัวอย่าง: The station showed a commercial.\nสถานีเปิดโฆษณาชิ้นหนึ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1664",
+      "front": {
+        "text": "commit\n(v.)"
+      },
+      "back": {
+        "text": "กระทำ\n\nตัวอย่าง: Please commit the changes today.\nกรุณายืนยันการเปลี่ยนแปลงวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1665",
+      "front": {
+        "text": "communication\n(n.)"
+      },
+      "back": {
+        "text": "การสื่อสาร\n\nตัวอย่าง: Good communication prevents misunderstandings.\nการสื่อสารที่ดีช่วยป้องกันความเข้าใจผิด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1666",
+      "front": {
+        "text": "comparison\n(n.)"
+      },
+      "back": {
+        "text": "การเปรียบเทียบ\n\nตัวอย่าง: The comparison showed clear differences.\nการเปรียบเทียบแสดงความแตกต่างชัดเจน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1667",
+      "front": {
+        "text": "competitive\n(adj.)"
+      },
+      "back": {
+        "text": "การแข่งขัน\n\nตัวอย่าง: Prices remain competitive this year.\nราคายังคงแข่งขันได้ในปีนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1668",
+      "front": {
+        "text": "competitor\n(n.)"
+      },
+      "back": {
+        "text": "คู่แข่ง, คู่ต่อสู้\n\nตัวอย่าง: A competitor opened nearby.\nคู่แข่งรายหนึ่งเปิดร้านใกล้ ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1669",
+      "front": {
+        "text": "complaint\n(n.)"
+      },
+      "back": {
+        "text": "การร้องเรียน\n\nตัวอย่าง: Please send your complaint in writing.\nกรุณาส่งคำร้องเรียนเป็นลายลักษณ์อักษร"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1670",
+      "front": {
+        "text": "complex\n(adj., n.)"
+      },
+      "back": {
+        "text": "ซับซ้อน\n\nตัวอย่าง: The problem is too complex.\nปัญหานี้ซับซ้อนเกินไป\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1671",
+      "front": {
+        "text": "concentrate\n(v.)"
+      },
+      "back": {
+        "text": "เพ่งเล็ง, ให้ความสนใจ\n\nตัวอย่าง: Please concentrate on the lesson.\nกรุณาตั้งใจเรียนบทเรียน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1672",
+      "front": {
+        "text": "conclusion\n(n.)"
+      },
+      "back": {
+        "text": "ข้อสรุป\n\nตัวอย่าง: His conclusion was correct.\nข้อสรุปของเขาถูกต้อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1673",
+      "front": {
+        "text": "confident\n(adj.)"
+      },
+      "back": {
+        "text": "มั่นใจ\n\nตัวอย่าง: She feels confident before the exam.\nเธอรู้สึกมั่นใจก่อนสอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1674",
+      "front": {
+        "text": "confirm\n(v.)"
+      },
+      "back": {
+        "text": "ยืนยัน\n\nตัวอย่าง: Please confirm your booking today.\nกรุณายืนยันการจองวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1675",
+      "front": {
+        "text": "confuse\n(v.)"
+      },
+      "back": {
+        "text": "สับสน\n\nตัวอย่าง: Do not confuse these two words.\nอย่าสับสนคำสองคำนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1676",
+      "front": {
+        "text": "confused\n(adj.)"
+      },
+      "back": {
+        "text": "สับสน\n\nตัวอย่าง: I am confused by this question.\nฉันสับสนกับคำถามนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1677",
+      "front": {
+        "text": "connection\n(n.)"
+      },
+      "back": {
+        "text": "การเชื่อมต่อ\n\nตัวอย่าง: The train connection was delayed.\nรถไฟต่อขบวนล่าช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1678",
+      "front": {
+        "text": "consequence\n(n.)"
+      },
+      "back": {
+        "text": "ผลที่ตามมา\n\nตัวอย่าง: Every action has a consequence.\nทุกการกระทำมีผลตามมา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1679",
+      "front": {
+        "text": "consist\n(v.)"
+      },
+      "back": {
+        "text": "ประกอบด้วย\n\nตัวอย่าง: The meal consists of vegetables.\nอาหารมื้อนี้ประกอบด้วยผัก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1680",
+      "front": {
+        "text": "consume\n(v.)"
+      },
+      "back": {
+        "text": "บริโภค, ใช้จนหมด\n\nตัวอย่าง: Cars consume a lot of fuel.\nรถยนต์ใช้เชื้อเพลิงมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1681",
+      "front": {
+        "text": "consumer\n(n.)"
+      },
+      "back": {
+        "text": "ผู้บริโภค\n\nตัวอย่าง: Consumers want lower prices.\nผู้บริโภคต้องการราคาที่ต่ำลง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1682",
+      "front": {
+        "text": "contact\n(n., v.)"
+      },
+      "back": {
+        "text": "ผู้ติดต่อ; ติดต่อ\n\nตัวอย่าง: Contact me after the meeting.\nติดต่อฉันหลังการประชุม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1683",
+      "front": {
+        "text": "content\n(n.)"
+      },
+      "back": {
+        "text": "เนื้อหา, หัวข้อ\n\nตัวอย่าง: The book has useful content.\nหนังสือมีเนื้อหาที่มีประโยชน์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1684",
+      "front": {
+        "text": "continuous\n(adj.)"
+      },
+      "back": {
+        "text": "อย่างต่อเนื่อง\n\nตัวอย่าง: The rain was continuous all day.\nฝนตกต่อเนื่องตลอดวัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1685",
+      "front": {
+        "text": "contrast\n(n., v.)"
+      },
+      "back": {
+        "text": "ความคมชัด\n\nตัวอย่าง: The colors contrast beautifully.\nสีตัดกันอย่างสวยงาม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1686",
+      "front": {
+        "text": "convenient\n(adj.)"
+      },
+      "back": {
+        "text": "สะดวก\n\nตัวอย่าง: The store is convenient for us.\nร้านนี้สะดวกสำหรับเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1687",
+      "front": {
+        "text": "convince\n(v.)"
+      },
+      "back": {
+        "text": "โน้มน้าว\n\nตัวอย่าง: Facts convinced me to wait.\nข้อเท็จจริงทำให้ฉันเชื่อว่าควรรอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1688",
+      "front": {
+        "text": "corn\n(n.)"
+      },
+      "back": {
+        "text": "ข้าวโพด\n\nตัวอย่าง: We ate corn with dinner.\nเรากินข้าวโพดกับอาหารเย็น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1689",
+      "front": {
+        "text": "costume\n(n.)"
+      },
+      "back": {
+        "text": "เครื่องแต่งกาย\n\nตัวอย่าง: He wore a pirate costume.\nเขาสวมชุดโจรสลัด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1690",
+      "front": {
+        "text": "cotton\n(n.)"
+      },
+      "back": {
+        "text": "ผ้าฝ้าย\n\nตัวอย่าง: This shirt is made of cotton.\nเสื้อตัวนี้ทำจากฝ้าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1691",
+      "front": {
+        "text": "countryside\n(n.)"
+      },
+      "back": {
+        "text": "ชนบท\n\nตัวอย่าง: They moved to the countryside.\nพวกเขาย้ายไปชนบท"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1692",
+      "front": {
+        "text": "court\n(n.)"
+      },
+      "back": {
+        "text": "ศาล\n\nตัวอย่าง: The court heard the case.\nศาลพิจารณาคดี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1693",
+      "front": {
+        "text": "covered\n(adj.)"
+      },
+      "back": {
+        "text": "ครอบคลุม\n\nตัวอย่าง: The table is covered with papers.\nโต๊ะถูกปกคลุมด้วยเอกสาร"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1694",
+      "front": {
+        "text": "cultural\n(adj.)"
+      },
+      "back": {
+        "text": "วัฒนธรรม\n\nตัวอย่าง: The festival has cultural value.\nเทศกาลมีคุณค่าทางวัฒนธรรม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1695",
+      "front": {
+        "text": "cupboard\n(n.)"
+      },
+      "back": {
+        "text": "ตู้\n\nตัวอย่าง: The cups are in the cupboard.\nถ้วยอยู่ในตู้เก็บของ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1696",
+      "front": {
+        "text": "currency\n(n.)"
+      },
+      "back": {
+        "text": "เงินตรา; สกุลเงิน\n\nตัวอย่าง: The currency changed in value.\nค่าเงินเปลี่ยนแปลง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1697",
+      "front": {
+        "text": "current\n(adj., n.)"
+      },
+      "back": {
+        "text": "ปัจจุบัน\n\nตัวอย่าง: Current news is easy to find.\nข่าวปัจจุบันหาได้ง่าย\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1698",
+      "front": {
+        "text": "currently\n(adv.)"
+      },
+      "back": {
+        "text": "ปัจจุบัน\n\nตัวอย่าง: She is currently on holiday.\nตอนนี้เธอกำลังพักร้อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1699",
+      "front": {
+        "text": "curtain\n(n.)"
+      },
+      "back": {
+        "text": "ผ้าม่าน\n\nตัวอย่าง: Close the curtain, please.\nกรุณาปิดม่าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1700",
+      "front": {
+        "text": "custom\n(n.)"
+      },
+      "back": {
+        "text": "กำหนดเอง\n\nตัวอย่าง: This custom is very old.\nประเพณีนี้เก่าแก่มาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1701",
+      "front": {
+        "text": "damage\n(n., v.)"
+      },
+      "back": {
+        "text": "ความเสียหาย, สร้างความเสียหาย\n\nตัวอย่าง: The storm damaged the roof.\nพายุทำให้หลังคาเสียหาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1702",
+      "front": {
+        "text": "decade\n(n.)"
+      },
+      "back": {
+        "text": "ทศวรรษ (10 ปี)\n\nตัวอย่าง: A decade has ten years.\nหนึ่งทศวรรษมีสิบปี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1703",
+      "front": {
+        "text": "define\n(v.)"
+      },
+      "back": {
+        "text": "กำหนด\n\nตัวอย่าง: Can you define this word?\nคุณนิยามคำนี้ได้ไหม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1704",
+      "front": {
+        "text": "definite\n(adj.)"
+      },
+      "back": {
+        "text": "แน่นอน\n\nตัวอย่าง: We need a definite answer.\nเราต้องการคำตอบที่แน่นอน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1705",
+      "front": {
+        "text": "deliver\n(v.)"
+      },
+      "back": {
+        "text": "จัดส่ง\n\nตัวอย่าง: Please deliver this package today.\nกรุณาส่งพัสดุนี้วันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1706",
+      "front": {
+        "text": "departure\n(n.)"
+      },
+      "back": {
+        "text": "การออกเดินทาง\n\nตัวอย่าง: Our departure is at dawn.\nเราออกเดินทางตอนรุ่งเช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1707",
+      "front": {
+        "text": "despite\n(prep.)"
+      },
+      "back": {
+        "text": "แม้จะมี\n\nตัวอย่าง: Despite rain, we walked outside.\nแม้ฝนตก เราก็เดินข้างนอก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1708",
+      "front": {
+        "text": "destination\n(n.)"
+      },
+      "back": {
+        "text": "จุดหมายปลายทาง\n\nตัวอย่าง: Bangkok is our final destination.\nกรุงเทพฯคือจุดหมายปลายทางสุดท้าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1709",
+      "front": {
+        "text": "determine\n(v.)"
+      },
+      "back": {
+        "text": "กำหนด, ตัดสินใจแน่วแน่\n\nตัวอย่าง: Tests determine the final result.\nการทดสอบกำหนดผลลัพธ์สุดท้าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1710",
+      "front": {
+        "text": "determined\n(adj.)"
+      },
+      "back": {
+        "text": "กำหนด\n\nตัวอย่าง: She is determined to finish.\nเธอมุ่งมั่นที่จะทำให้เสร็จ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1711",
+      "front": {
+        "text": "development\n(n.)"
+      },
+      "back": {
+        "text": "การพัฒนา\n\nตัวอย่าง: The town saw rapid development.\nเมืองมีการพัฒนาอย่างรวดเร็ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1712",
+      "front": {
+        "text": "diagram\n(n.)"
+      },
+      "back": {
+        "text": "แผนภาพ\n\nตัวอย่าง: The diagram explains the process.\nแผนภาพอธิบายกระบวนการ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1713",
+      "front": {
+        "text": "diamond\n(n.)"
+      },
+      "back": {
+        "text": "เพชร\n\nตัวอย่าง: The ring has a small diamond.\nแหวนนั้นมีเพชรเม็ดเล็ก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1714",
+      "front": {
+        "text": "difficulty\n(n.)"
+      },
+      "back": {
+        "text": "ความยากลำบาก\n\nตัวอย่าง: She had difficulty sleeping.\nเธอมีปัญหาในการนอน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1715",
+      "front": {
+        "text": "directly\n(adv.)"
+      },
+      "back": {
+        "text": "โดยตรง\n\nตัวอย่าง: Please send it directly to me.\nโปรดส่งมันถึงฉันโดยตรง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1716",
+      "front": {
+        "text": "disadvantage\n(n.)"
+      },
+      "back": {
+        "text": "ข้อเสียเปรียบ\n\nตัวอย่าง: Cost is a major disadvantage.\nต้นทุนเป็นข้อเสียเปรียบสำคัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1717",
+      "front": {
+        "text": "disappointed\n(adj.)"
+      },
+      "back": {
+        "text": "ผิดหวัง\n\nตัวอย่าง: She was disappointed by the result.\nเธอผิดหวังกับผลลัพธ์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1718",
+      "front": {
+        "text": "disappointing\n(adj.)"
+      },
+      "back": {
+        "text": "น่าผิดหวัง\n\nตัวอย่าง: The ending was disappointing.\nตอนจบน่าผิดหวัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1719",
+      "front": {
+        "text": "discount\n(n., v.)"
+      },
+      "back": {
+        "text": "ส่วนลด\n\nตัวอย่าง: This shop offers a discount.\nร้านนี้มีส่วนลด\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1720",
+      "front": {
+        "text": "dislike\n(v., n.)"
+      },
+      "back": {
+        "text": "ไม่ชอบ\n\nตัวอย่าง: I dislike noisy places.\nฉันไม่ชอบสถานที่เสียงดัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1721",
+      "front": {
+        "text": "district\n(n.)"
+      },
+      "back": {
+        "text": "อำเภอ\n\nตัวอย่าง: She lives in this district.\nเธออาศัยอยู่ในอำเภอนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1722",
+      "front": {
+        "text": "divide\n(v., n.)"
+      },
+      "back": {
+        "text": "แบ่ง\n\nตัวอย่าง: Divide the cake into eight pieces.\nแบ่งเค้กเป็นแปดชิ้น\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1723",
+      "front": {
+        "text": "documentary\n(n.)"
+      },
+      "back": {
+        "text": "สารคดี\n\nตัวอย่าง: We watched a nature documentary.\nเราดูสารคดีธรรมชาติ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1724",
+      "front": {
+        "text": "donate\n(v.)"
+      },
+      "back": {
+        "text": "บริจาค\n\nตัวอย่าง: We donated clothes to charity.\nเราบริจาคเสื้อผ้าให้การกุศล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1725",
+      "front": {
+        "text": "doubt\n(n., v.)"
+      },
+      "back": {
+        "text": "สงสัย\n\nตัวอย่าง: I doubt he knows.\nฉันสงสัยว่าเขารู้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1726",
+      "front": {
+        "text": "dressed\n(adj.)"
+      },
+      "back": {
+        "text": "แต่งตัว\n\nตัวอย่าง: Everyone was dressed warmly.\nทุกคนแต่งตัวอบอุ่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1727",
+      "front": {
+        "text": "drunk\n(adj.)"
+      },
+      "back": {
+        "text": "เมา\n\nตัวอย่าง: He was drunk at the party.\nเขาเมาที่งานเลี้ยง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1728",
+      "front": {
+        "text": "due\n(adj.)"
+      },
+      "back": {
+        "text": "เนื่องจาก\n\nตัวอย่าง: The payment is due Friday.\nกำหนดชำระเงินคือวันศุกร์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1729",
+      "front": {
+        "text": "dust\n(n.)"
+      },
+      "back": {
+        "text": "ฝุ่น\n\nตัวอย่าง: Dust covered the old shelf.\nฝุ่นปกคลุมชั้นเก่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1730",
+      "front": {
+        "text": "duty\n(n.)"
+      },
+      "back": {
+        "text": "หน้าที่, ภาษี\n\nตัวอย่าง: It is my duty to help.\nเป็นหน้าที่ของฉันที่จะช่วย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1731",
+      "front": {
+        "text": "earthquake\n(n.)"
+      },
+      "back": {
+        "text": "แผ่นดินไหว\n\nตัวอย่าง: The earthquake damaged many homes.\nแผ่นดินไหวทำลายบ้านหลายหลัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1732",
+      "front": {
+        "text": "eastern\n(adj.)"
+      },
+      "back": {
+        "text": "ตะวันออก\n\nตัวอย่าง: The eastern coast is beautiful.\nชายฝั่งตะวันออกสวยงาม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1733",
+      "front": {
+        "text": "economic\n(adj.)"
+      },
+      "back": {
+        "text": "ที่เกี่ยวกับเศรษฐกิจ\n\nตัวอย่าง: Economic growth creates jobs.\nการเติบโตทางเศรษฐกิจสร้างงาน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1734",
+      "front": {
+        "text": "economy\n(n.)"
+      },
+      "back": {
+        "text": "เศรษฐกิจ\n\nตัวอย่าง: The economy is improving slowly.\nเศรษฐกิจกำลังดีขึ้นอย่างช้า ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1735",
+      "front": {
+        "text": "edge\n(n.)"
+      },
+      "back": {
+        "text": "ขอบ\n\nตัวอย่าง: Do not stand near the edge.\nอย่ายืนใกล้ขอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1736",
+      "front": {
+        "text": "editor\n(n.)"
+      },
+      "back": {
+        "text": "บรรณาธิการ\n\nตัวอย่าง: The editor changed the title.\nบรรณาธิการเปลี่ยนชื่อเรื่อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1737",
+      "front": {
+        "text": "educate\n(v.)"
+      },
+      "back": {
+        "text": "ให้การศึกษา\n\nตัวอย่าง: Schools educate young people.\nโรงเรียนให้การศึกษาแก่คนหนุ่มสาว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1738",
+      "front": {
+        "text": "educational\n(adj.)"
+      },
+      "back": {
+        "text": "ทางการศึกษา\n\nตัวอย่าง: This game is educational.\nเกมนี้ให้ความรู้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1739",
+      "front": {
+        "text": "effective\n(adj.)"
+      },
+      "back": {
+        "text": "มีประสิทธิภาพ; ได้ผล\n\nตัวอย่าง: This method is effective.\nวิธีนี้ได้ผล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1740",
+      "front": {
+        "text": "effectively\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างได้ผล; อย่างมีประสิทธิภาพ\n\nตัวอย่าง: He worked effectively alone.\nเขาทำงานคนเดียวอย่างมีประสิทธิภาพ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1741",
+      "front": {
+        "text": "effort\n(n.)"
+      },
+      "back": {
+        "text": "ความพยายาม, ความอุตสาหะ\n\nตัวอย่าง: Success requires steady effort.\nความสำเร็จต้องใช้ความพยายามสม่ำเสมอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1742",
+      "front": {
+        "text": "election\n(n.)"
+      },
+      "back": {
+        "text": "การเลือกตั้ง\n\nตัวอย่าง: The election is next week.\nการเลือกตั้งคือสัปดาห์หน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1743",
+      "front": {
+        "text": "element\n(n.)"
+      },
+      "back": {
+        "text": "องค์ประกอบ, ธาตุ\n\nตัวอย่าง: Water is an important element.\nน้ำเป็นองค์ประกอบสำคัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1744",
+      "front": {
+        "text": "embarrassed\n(adj.)"
+      },
+      "back": {
+        "text": "เขินอาย\n\nตัวอย่าง: She felt embarrassed after falling.\nเธอรู้สึกเขินอายหลังล้ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1745",
+      "front": {
+        "text": "embarrassing\n(adj.)"
+      },
+      "back": {
+        "text": "น่าอาย\n\nตัวอย่าง: That question was embarrassing.\nคำถามนั้นน่าอาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1746",
+      "front": {
+        "text": "emergency\n(n.)"
+      },
+      "back": {
+        "text": "ภาวะฉุกเฉิน, ภาวะเร่งด่วน\n\nตัวอย่าง: Call for help in an emergency.\nโทรขอความช่วยเหลือในภาวะฉุกเฉิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1747",
+      "front": {
+        "text": "emotion\n(n.)"
+      },
+      "back": {
+        "text": "อารมณ์\n\nตัวอย่าง: Fear is a strong emotion.\nความกลัวเป็นอารมณ์ที่รุนแรง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1748",
+      "front": {
+        "text": "employment\n(n.)"
+      },
+      "back": {
+        "text": "การจ้างงาน; งานที่ทำอยู่\n\nตัวอย่าง: Employment is rising this year.\nการจ้างงานเพิ่มขึ้นปีนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1749",
+      "front": {
+        "text": "enemy\n(n.)"
+      },
+      "back": {
+        "text": "ศัตรู, สิ่งที่เป็นภัย\n\nตัวอย่าง: He treated nobody as an enemy.\nเขาไม่มองใครเป็นศัตรู"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1750",
+      "front": {
+        "text": "engaged\n(adj.)"
+      },
+      "back": {
+        "text": "มีส่วนร่วม\n\nตัวอย่าง: They are engaged in the project.\nพวกเขามีส่วนร่วมในโครงการ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1751",
+      "front": {
+        "text": "engineering\n(n.)"
+      },
+      "back": {
+        "text": "วิศวกรรมศาสตร์\n\nตัวอย่าง: She studies engineering at college.\nเธอเรียนวิศวกรรมศาสตร์ที่วิทยาลัย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1752",
+      "front": {
+        "text": "entertain\n(v.)"
+      },
+      "back": {
+        "text": "ทำให้เพลิดเพลิน, ทำให้สนุกสนาน\n\nตัวอย่าง: The clown entertained the children.\nตัวตลกทำให้เด็ก ๆ สนุก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1753",
+      "front": {
+        "text": "entertainment\n(n.)"
+      },
+      "back": {
+        "text": "ความบันเทิง\n\nตัวอย่าง: Music is good entertainment.\nดนตรีคือความบันเทิงที่ดี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1754",
+      "front": {
+        "text": "entrance\n(n.)"
+      },
+      "back": {
+        "text": "ทางเข้า\n\nตัวอย่าง: Use the front entrance.\nใช้ทางเข้าด้านหน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1755",
+      "front": {
+        "text": "entry\n(n.)"
+      },
+      "back": {
+        "text": "รายการ\n\nตัวอย่าง: Write your entry in the form.\nเขียนรายการของคุณในแบบฟอร์ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1756",
+      "front": {
+        "text": "environmental\n(adj.)"
+      },
+      "back": {
+        "text": "สิ่งแวดล้อม\n\nตัวอย่าง: They studied environmental problems.\nพวกเขาศึกษาปัญหาสิ่งแวดล้อม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1757",
+      "front": {
+        "text": "episode\n(n.)"
+      },
+      "back": {
+        "text": "ตอน\n\nตัวอย่าง: I missed the first episode.\nฉันพลาดตอนแรก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1758",
+      "front": {
+        "text": "equal\n(adj., v., n.)"
+      },
+      "back": {
+        "text": "ที่เท่ากัน\n\nตัวอย่าง: Both sides have equal rights.\nทั้งสองฝ่ายมีสิทธิเท่ากัน\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1759",
+      "front": {
+        "text": "equally\n(adv.)"
+      },
+      "back": {
+        "text": "เท่าๆ กัน\n\nตัวอย่าง: Share the food equally.\nแบ่งอาหารอย่างเท่าเทียม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1760",
+      "front": {
+        "text": "essential\n(adj.)"
+      },
+      "back": {
+        "text": "ที่จำเป็น, องค์ประกอบสำคัญ\n\nตัวอย่าง: Water is essential for life.\nน้ำจำเป็นต่อชีวิต"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1761",
+      "front": {
+        "text": "eventually\n(adv.)"
+      },
+      "back": {
+        "text": "ในที่สุด\n\nตัวอย่าง: She eventually found her keys.\nในที่สุดเธอก็พบกุญแจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1762",
+      "front": {
+        "text": "examine\n(v.)"
+      },
+      "back": {
+        "text": "พินิจพิจารณา, ตรวจสอบ\n\nตัวอย่าง: The doctor examined my eyes.\nแพทย์ตรวจดวงตาของฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1763",
+      "front": {
+        "text": "exchange\n(n., v.)"
+      },
+      "back": {
+        "text": "แลกเปลี่ยน\n\nตัวอย่าง: We exchanged phone numbers.\nเราแลกเปลี่ยนหมายเลขโทรศัพท์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1764",
+      "front": {
+        "text": "excitement\n(n.)"
+      },
+      "back": {
+        "text": "ความตื่นเต้น\n\nตัวอย่าง: The news created great excitement.\nข่าวสร้างความตื่นเต้นมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1765",
+      "front": {
+        "text": "exhibition\n(n.)"
+      },
+      "back": {
+        "text": "นิทรรศการ\n\nตัวอย่าง: We visited the art exhibition.\nเราเยี่ยมชมนิทรรศการศิลปะ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1766",
+      "front": {
+        "text": "exit\n(n., v.)"
+      },
+      "back": {
+        "text": "ออก\n\nตัวอย่าง: Use the exit on the left.\nใช้ทางออกด้านซ้าย\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1767",
+      "front": {
+        "text": "expand\n(v.)"
+      },
+      "back": {
+        "text": "ขยาย\n\nตัวอย่าง: The company plans to expand.\nบริษัทวางแผนจะขยาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1768",
+      "front": {
+        "text": "expected\n(adj.)"
+      },
+      "back": {
+        "text": "คาดหวัง\n\nตัวอย่าง: The expected train arrived late.\nรถไฟที่คาดว่าจะมามาช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1769",
+      "front": {
+        "text": "experienced\n(adj.)"
+      },
+      "back": {
+        "text": "มีประสบการณ์\n\nตัวอย่าง: She is an experienced nurse.\nเธอเป็นพยาบาลที่มีประสบการณ์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1770",
+      "front": {
+        "text": "explode\n(v.)"
+      },
+      "back": {
+        "text": "ระเบิด, ปะทุ\n\nตัวอย่าง: The gas may explode.\nก๊าซอาจระเบิด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1771",
+      "front": {
+        "text": "explosion\n(n.)"
+      },
+      "back": {
+        "text": "การระเบิด\n\nตัวอย่าง: We heard a loud explosion.\nเราได้ยินเสียงระเบิดดัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1772",
+      "front": {
+        "text": "export\n(n., v.)"
+      },
+      "back": {
+        "text": "ส่งออ���\n\nตัวอย่าง: Thailand exports rice worldwide.\nประเทศไทยส่งออกข้าวทั่วโลก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1773",
+      "front": {
+        "text": "fairly\n(adv.)"
+      },
+      "back": {
+        "text": "เป็นธรรม\n\nตัวอย่าง: The room is fairly quiet.\nห้องค่อนข้างเงียบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1774",
+      "front": {
+        "text": "familiar\n(adj.)"
+      },
+      "back": {
+        "text": "คุ้นเคย, คุ้นชิน, สนิทสนม\n\nตัวอย่าง: His face seems familiar.\nใบหน้าของเขาดูคุ้นเคย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1775",
+      "front": {
+        "text": "fancy\n(adj.)"
+      },
+      "back": {
+        "text": "แฟนซี\n\nตัวอย่าง: She wore a fancy hat.\nเธอสวมหมวกแฟนซี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1776",
+      "front": {
+        "text": "fascinating\n(adj.)"
+      },
+      "back": {
+        "text": "น่าหลงใหล\n\nตัวอย่าง: The museum was fascinating.\nพิพิธภัณฑ์น่าหลงใหล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1777",
+      "front": {
+        "text": "fashionable\n(adj.)"
+      },
+      "back": {
+        "text": "ที่ทันสมัย\n\nตัวอย่าง: These shoes are fashionable now.\nรองเท้าคู่นี้กำลังทันสมัย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1778",
+      "front": {
+        "text": "fasten\n(v.)"
+      },
+      "back": {
+        "text": "ยึด\n\nตัวอย่าง: Fasten your seat belt.\nคาดเข็มขัดนิรภัย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1779",
+      "front": {
+        "text": "favor\n(n., v.)"
+      },
+      "back": {
+        "text": "โปรดปราน\n\nตัวอย่าง: Please do me a favor.\nโปรดช่วยฉันหน่อย\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1780",
+      "front": {
+        "text": "federal\n(adj.)"
+      },
+      "back": {
+        "text": "ของรัฐบาลกลาง\n\nตัวอย่าง: It is a federal law.\nมันเป็นกฎหมายของรัฐบาลกลาง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1781",
+      "front": {
+        "text": "fence\n(n.)"
+      },
+      "back": {
+        "text": "รั้ว\n\nตัวอย่าง: The dog jumped over the fence.\nสุนัขกระโดดข้ามรั้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1782",
+      "front": {
+        "text": "file\n(n., v.)"
+      },
+      "back": {
+        "text": "ไฟล์\n\nตัวอย่าง: Save the file before leaving.\nบันทึกไฟล์ก่อนออกไป\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1783",
+      "front": {
+        "text": "financial\n(adj.)"
+      },
+      "back": {
+        "text": "การเงิน\n\nตัวอย่าง: He needs financial support.\nเขาต้องการการสนับสนุนทางการเงิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1784",
+      "front": {
+        "text": "fitness\n(n.)"
+      },
+      "back": {
+        "text": "สมรรถภาพทางกาย\n\nตัวอย่าง: Walking improves your fitness.\nการเดินช่วยเพิ่มสมรรถภาพร่างกาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1785",
+      "front": {
+        "text": "fixed\n(adj.)"
+      },
+      "back": {
+        "text": "แก้ไขแล้ว\n\nตัวอย่าง: The meeting has a fixed time.\nการประชุมมีเวลาที่กำหนดไว้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1786",
+      "front": {
+        "text": "flag\n(n.)"
+      },
+      "back": {
+        "text": "ธง\n\nตัวอย่าง: The flag waved in the wind.\nธงโบกสะบัดในลม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1787",
+      "front": {
+        "text": "flood\n(n., v.)"
+      },
+      "back": {
+        "text": "น้ำท่วม\n\nตัวอย่าง: Heavy rain caused a flood.\nฝนหนักทำให้น้ำท่วม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1788",
+      "front": {
+        "text": "flour\n(n.)"
+      },
+      "back": {
+        "text": "แป้ง\n\nตัวอย่าง: We need flour for the cake.\nเราต้องใช้แป้งทำเค้ก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1789",
+      "front": {
+        "text": "flow\n(v., n.)"
+      },
+      "back": {
+        "text": "ไหล\n\nตัวอย่าง: The river flows to the sea.\nแม่น้ำไหลสู่ทะเล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1790",
+      "front": {
+        "text": "fold\n(v., n.)"
+      },
+      "back": {
+        "text": "พับ\n\nตัวอย่าง: Fold the paper in half.\nพับกระดาษครึ่งหนึ่ง\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1791",
+      "front": {
+        "text": "folk\n(n., adj.)"
+      },
+      "back": {
+        "text": "ผู้คน; พื้นบ้าน\n\nตัวอย่าง: They sang a folk song.\nพวกเขาร้องเพลงพื้นบ้าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1792",
+      "front": {
+        "text": "force\n(n., v.)"
+      },
+      "back": {
+        "text": "บังคับ\n\nตัวอย่าง: Do not force the door.\nอย่าฝืนประตู"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1793",
+      "front": {
+        "text": "frame\n(n., v.)"
+      },
+      "back": {
+        "text": "กรอบ\n\nตัวอย่าง: Put the photo in a frame.\nใส่รูปภาพลงในกรอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1794",
+      "front": {
+        "text": "freeze\n(v.)"
+      },
+      "back": {
+        "text": "แช่แข็ง\n\nตัวอย่าง: Water freezes at zero degrees.\nน้ำแข็งตัวที่ศูนย์องศา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1795",
+      "front": {
+        "text": "frequently\n(adv.)"
+      },
+      "back": {
+        "text": "บ่อยครั้ง\n\nตัวอย่าง: We frequently eat there.\nเรากินที่นั่นบ่อยครั้ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1796",
+      "front": {
+        "text": "friendship\n(n.)"
+      },
+      "back": {
+        "text": "มิตรภาพ\n\nตัวอย่าง: Their friendship grew stronger.\nมิตรภาพของพวกเขาแน่นแฟ้นขึ้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1797",
+      "front": {
+        "text": "frighten\n(v.)"
+      },
+      "back": {
+        "text": "ทำให้กลัว\n\nตัวอย่าง: Thunder can frighten children.\nฟ้าร้องอาจทำให้เด็กกลัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1798",
+      "front": {
+        "text": "frightened\n(adj.)"
+      },
+      "back": {
+        "text": "กลัว\n\nตัวอย่าง: The child looked frightened.\nเด็กดูหวาดกลัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1799",
+      "front": {
+        "text": "frightening\n(adj.)"
+      },
+      "back": {
+        "text": "น่ากลัว\n\nตัวอย่าง: That movie was frightening.\nภาพยนตร์เรื่องนั้นน่ากลัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1800",
+      "front": {
+        "text": "frozen\n(adj.)"
+      },
+      "back": {
+        "text": "แช่แข็ง\n\nตัวอย่าง: The fish is frozen.\nปลาถูกแช่แข็ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1801",
+      "front": {
+        "text": "fry\n(v.)"
+      },
+      "back": {
+        "text": "ทอด\n\nตัวอย่าง: We fry eggs for breakfast.\nเราทอดไข่เป็นอาหารเช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1802",
+      "front": {
+        "text": "fuel\n(n., v.)"
+      },
+      "back": {
+        "text": "เชื้อเพลิง; เติมเชื้อเพลิง\n\nตัวอย่าง: The car needs more fuel.\nรถต้องการเชื้อเพลิงเพิ่ม\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1803",
+      "front": {
+        "text": "function\n(n., v.)"
+      },
+      "back": {
+        "text": "หน้าที่; ทำงาน\n\nตัวอย่าง: This button has one function.\nปุ่มนี้มีหน้าที่หนึ่งอย่าง\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1804",
+      "front": {
+        "text": "garage\n(n.)"
+      },
+      "back": {
+        "text": "โรงรถ\n\nตัวอย่าง: The car is in the garage.\nรถอยู่ในโรงรถ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1805",
+      "front": {
+        "text": "gather\n(v.)"
+      },
+      "back": {
+        "text": "รวบรวม\n\nตัวอย่าง: Gather your books now.\nรวบรวมหนังสือของคุณตอนนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1806",
+      "front": {
+        "text": "generally\n(adv.)"
+      },
+      "back": {
+        "text": "โดยทั่วไป\n\nตัวอย่าง: Generally, buses arrive on time.\nโดยทั่วไปรถประจำทางมาตรงเวลา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1807",
+      "front": {
+        "text": "generation\n(n.)"
+      },
+      "back": {
+        "text": "รุ่น, ยุค\n\nตัวอย่าง: Each generation has new ideas.\nแต่ละรุ่นมีความคิดใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1808",
+      "front": {
+        "text": "generous\n(adj.)"
+      },
+      "back": {
+        "text": "มีน้ำใจ, ใจกว้าง\n\nตัวอย่าง: She is generous with her time.\nเธอใจกว้างเรื่องเวลา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1809",
+      "front": {
+        "text": "gentle\n(adj.)"
+      },
+      "back": {
+        "text": "อ่อนโยน\n\nตัวอย่าง: Use a gentle voice.\nใช้น้ำเสียงอ่อนโยน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1810",
+      "front": {
+        "text": "gentleman\n(n.)"
+      },
+      "back": {
+        "text": "สุภาพบุรุษ\n\nตัวอย่าง: The gentleman held the door.\nสุภาพบุรุษคนนั้นจับประตูไว้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1811",
+      "front": {
+        "text": "ghost\n(n.)"
+      },
+      "back": {
+        "text": "ผี\n\nตัวอย่าง: The ghost scared the dog.\nผีทำให้สุนัขตกใจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1812",
+      "front": {
+        "text": "giant\n(adj., n.)"
+      },
+      "back": {
+        "text": "ยักษ์; ใหญ่มาก\n\nตัวอย่าง: A giant tree grows here.\nต้นไม้ยักษ์เติบโตที่นี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1813",
+      "front": {
+        "text": "glad\n(adj.)"
+      },
+      "back": {
+        "text": "ดีใจ\n\nตัวอย่าง: I am glad you came.\nฉันดีใจที่คุณมา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1814",
+      "front": {
+        "text": "global\n(adj.)"
+      },
+      "back": {
+        "text": "ทั่วโลก\n\nตัวอย่าง: Global trade is growing.\nการค้าทั่วโลกกำลังเติบโต"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1815",
+      "front": {
+        "text": "grade\n(n., v.)"
+      },
+      "back": {
+        "text": "เกรด; ระดับ; ให้คะแนน\n\nตัวอย่าง: She got a high grade.\nเธอได้เกรดสูง\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1816",
+      "front": {
+        "text": "graduate\n(n., v.)"
+      },
+      "back": {
+        "text": "ผู้สำเร็จการศึกษา; จบการศึกษา\n\nตัวอย่าง: He will graduate next year.\nเขาจะจบการศึกษาปีหน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1817",
+      "front": {
+        "text": "grain\n(n.)"
+      },
+      "back": {
+        "text": "เมล็ดพืช\n\nตัวอย่าง: Rice is a grain.\nข้าวเป็นเมล็ดพืช"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1818",
+      "front": {
+        "text": "grateful\n(adj.)"
+      },
+      "back": {
+        "text": "ปลื้มปิติ, กตัญญู\n\nตัวอย่าง: I am grateful for your help.\nฉันขอบคุณสำหรับความช่วยเหลือของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1819",
+      "front": {
+        "text": "growth\n(n.)"
+      },
+      "back": {
+        "text": "การเจริญเติบโต; การเติบโต\n\nตัวอย่าง: The company reported steady growth.\nบริษัทรายงานการเติบโตอย่างมั่นคง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1820",
+      "front": {
+        "text": "guard\n(n., v.)"
+      },
+      "back": {
+        "text": "ยาม\n\nตัวอย่าง: The guard opened the gate.\nยามเปิดประตูรั้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1821",
+      "front": {
+        "text": "guilty\n(adj.)"
+      },
+      "back": {
+        "text": "สำนึกผิด, ซึ่งมีความผิด\n\nตัวอย่าง: He felt guilty afterward.\nหลังจากนั้นเขารู้สึกผิด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1822",
+      "front": {
+        "text": "hang\n(v.)"
+      },
+      "back": {
+        "text": "แขวน\n\nตัวอย่าง: Hang your coat there.\nแขวนเสื้อคลุมของคุณตรงนั้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1823",
+      "front": {
+        "text": "happiness\n(n.)"
+      },
+      "back": {
+        "text": "ความสุข\n\nตัวอย่าง: Music brings happiness.\nดนตรีนำความสุขมาให้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1824",
+      "front": {
+        "text": "hardly\n(adv.)"
+      },
+      "back": {
+        "text": "แทบจะไม่\n\nตัวอย่าง: I could hardly hear you.\nฉันแทบไม่ได้ยินคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1825",
+      "front": {
+        "text": "headline\n(n.)"
+      },
+      "back": {
+        "text": "พาดหัว\n\nตัวอย่าง: The headline caught my eye.\nพาดหัวข่าวสะดุดตาฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1826",
+      "front": {
+        "text": "heavily\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างหนัก\n\nตัวอย่าง: It rained heavily all night.\nฝนตกหนักตลอดคืน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1827",
+      "front": {
+        "text": "helicopter\n(n.)"
+      },
+      "back": {
+        "text": "เฮลิคอปเตอร์\n\nตัวอย่าง: A helicopter flew overhead.\nเฮลิคอปเตอร์บินผ่านเหนือศีรษะ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1828",
+      "front": {
+        "text": "highlight\n(v., n.)"
+      },
+      "back": {
+        "text": "ไฮไลท์\n\nตัวอย่าง: Please highlight the key sentence.\nกรุณาเน้นประโยคสำคัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1829",
+      "front": {
+        "text": "highly\n(adv.)"
+      },
+      "back": {
+        "text": "สูง\n\nตัวอย่าง: She is highly respected here.\nเธอได้รับความเคารพอย่างมากที่นี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1830",
+      "front": {
+        "text": "highway\n(n.)"
+      },
+      "back": {
+        "text": "ทางหลวง\n\nตัวอย่าง: The highway is busy today.\nทางหลวงคึกคักวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1831",
+      "front": {
+        "text": "hire\n(v., n.)"
+      },
+      "back": {
+        "text": "จ้าง\n\nตัวอย่าง: The store will hire two people.\nร้านจะจ้างคนสองคน\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1832",
+      "front": {
+        "text": "historic\n(adj.)"
+      },
+      "back": {
+        "text": "ประวัติศาสตร์\n\nตัวอย่าง: We visited a historic temple.\nเราเยี่ยมชมวัดเก่าแก่แห่งหนึ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1833",
+      "front": {
+        "text": "historical\n(adj.)"
+      },
+      "back": {
+        "text": "ประวัติศาสตร์\n\nตัวอย่าง: She studies historical documents.\nเธอศึกษาบันทึกทางประวัติศาสตร์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1834",
+      "front": {
+        "text": "honest\n(adj.)"
+      },
+      "back": {
+        "text": "ซื่อสัตย์\n\nตัวอย่าง: Please be honest with me.\nกรุณาซื่อสัตย์กับฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1835",
+      "front": {
+        "text": "horrible\n(adj.)"
+      },
+      "back": {
+        "text": "น่ากลัว\n\nตัวอย่าง: The weather was horrible yesterday.\nอากาศเมื่อวานแย่มาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1836",
+      "front": {
+        "text": "horror\n(n.)"
+      },
+      "back": {
+        "text": "ความหวาดระแวง, ความน่ากลัว\n\nตัวอย่าง: She dislikes horror movies.\nเธอไม่ชอบหนังสยองขวัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1837",
+      "front": {
+        "text": "hunt\n(v., n.)"
+      },
+      "back": {
+        "text": "ล่า\n\nตัวอย่าง: They hunt for food nearby.\nพวกเขาล่าสัตว์หาอาหารใกล้ ๆ\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1838",
+      "front": {
+        "text": "hurricane\n(n.)"
+      },
+      "back": {
+        "text": "พายุเฮอริเคน\n\nตัวอย่าง: The hurricane damaged many homes.\nพายุเฮอริเคนทำลายบ้านหลายหลัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1839",
+      "front": {
+        "text": "hurry\n(n., v.)"
+      },
+      "back": {
+        "text": "รีบ\n\nตัวอย่าง: Please hurry or we will miss it.\nรีบเถอะ ไม่อย่างนั้นเราจะพลาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1840",
+      "front": {
+        "text": "identity\n(n.)"
+      },
+      "back": {
+        "text": "อัตลักษณ์\n\nตัวอย่าง: Your identity stays private here.\nตัวตนของคุณเป็นส่วนตัวที่นี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1841",
+      "front": {
+        "text": "ignore\n(v.)"
+      },
+      "back": {
+        "text": "ไม่สนใจ\n\nตัวอย่าง: Do not ignore the warning.\nอย่าเพิกเฉยต่อคำเตือน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1842",
+      "front": {
+        "text": "illegal\n(adj.)"
+      },
+      "back": {
+        "text": "ผิดกฎหมาย\n\nตัวอย่าง: It is illegal to park here.\nจอดรถที่นี่ผิดกฎหมาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1843",
+      "front": {
+        "text": "imaginary\n(adj.)"
+      },
+      "back": {
+        "text": "จินตภาพ\n\nตัวอย่าง: The dragon is imaginary.\nมังกรเป็นสิ่งในจินตนาการ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1844",
+      "front": {
+        "text": "immediate\n(adj.)"
+      },
+      "back": {
+        "text": "ทันที\n\nตัวอย่าง: We need an immediate answer.\nเราต้องการคำตอบทันที"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1845",
+      "front": {
+        "text": "immigrant\n(n.)"
+      },
+      "back": {
+        "text": "ผู้อพยพ\n\nตัวอย่าง: The immigrant found a new home.\nผู้อพยพพบบ้านใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1846",
+      "front": {
+        "text": "impact\n(n., v.)"
+      },
+      "back": {
+        "text": "ผลกระทบ\n\nตัวอย่าง: The storm had a big impact.\nพายุส่งผลกระทบมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1847",
+      "front": {
+        "text": "import\n(n., v.)"
+      },
+      "back": {
+        "text": "นำเข้า\n\nตัวอย่าง: They import fruit from Japan.\nพวกเขานำเข้าผลไม้จากญี่ปุ่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1848",
+      "front": {
+        "text": "impression\n(n.)"
+      },
+      "back": {
+        "text": "ความประทับใจ\n\nตัวอย่าง: The concert left a strong impression.\nคอนเสิร์ตทิ้งความประทับใจมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1849",
+      "front": {
+        "text": "impressive\n(adj.)"
+      },
+      "back": {
+        "text": "ประทับใจ, ซาบซึ่งใจ\n\nตัวอย่าง: The view from here is impressive.\nวิวจากที่นี่น่าประทับใจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1850",
+      "front": {
+        "text": "improvement\n(n.)"
+      },
+      "back": {
+        "text": "การปรับปรุง\n\nตัวอย่าง: We saw a big improvement.\nเราเห็นการพัฒนาครั้งใหญ่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1851",
+      "front": {
+        "text": "incredibly\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างไม่น่าเชื่อ\n\nตัวอย่าง: The room was incredibly quiet.\nห้องเงียบอย่างเหลือเชื่อ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1852",
+      "front": {
+        "text": "indeed\n(adv.)"
+      },
+      "back": {
+        "text": "แน่นอน\n\nตัวอย่าง: Indeed, that is true.\nจริงอย่างที่ว่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1853",
+      "front": {
+        "text": "indicate\n(v.)"
+      },
+      "back": {
+        "text": "บ่งชี้, แสดง\n\nตัวอย่าง: The sign indicates the exit.\nป้ายบอกทางออก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1854",
+      "front": {
+        "text": "indirect\n(adj.)"
+      },
+      "back": {
+        "text": "ทางอ้อม\n\nตัวอย่าง: They took an indirect route.\nพวกเขาใช้เส้นทางอ้อม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1855",
+      "front": {
+        "text": "indoor\n(adj.)"
+      },
+      "back": {
+        "text": "ในร่ม\n\nตัวอย่าง: We play indoor games today.\nวันนี้เราเล่นเกมในร่ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1856",
+      "front": {
+        "text": "indoors\n(adv.)"
+      },
+      "back": {
+        "text": "ในอาคาร\n\nตัวอย่าง: It is raining, so stay indoors.\nฝนตก ดังนั้นอยู่ในร่ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1857",
+      "front": {
+        "text": "influence\n(n., v.)"
+      },
+      "back": {
+        "text": "มีอิทธิพล\n\nตัวอย่าง: Parents influence young children.\nพ่อแม่มีอิทธิพลต่อเด็กเล็ก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1858",
+      "front": {
+        "text": "ingredient\n(n.)"
+      },
+      "back": {
+        "text": "ส่วนผสม\n\nตัวอย่าง: Salt is an important ingredient.\nเกลือเป็นส่วนผสมสำคัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1859",
+      "front": {
+        "text": "injured\n(adj.)"
+      },
+      "back": {
+        "text": "ได้รับบาดเจ็บ\n\nตัวอย่าง: The injured runner needs help.\nนักวิ่งที่บาดเจ็บต้องการความช่วยเหลือ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1860",
+      "front": {
+        "text": "innocent\n(adj.)"
+      },
+      "back": {
+        "text": "ผู้บริสุทธิ์\n\nตัวอย่าง: The court found her innocent.\nศาลพบว่าเธอบริสุทธิ์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1861",
+      "front": {
+        "text": "intelligence\n(n.)"
+      },
+      "back": {
+        "text": "สติปัญญา\n\nตัวอย่าง: Intelligence helps us solve problems.\nสติปัญญาช่วยให้เราแก้ปัญหาได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1862",
+      "front": {
+        "text": "intend\n(v.)"
+      },
+      "back": {
+        "text": "ตั้งใจ\n\nตัวอย่าง: I intend to call her.\nฉันตั้งใจจะโทรหาเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1863",
+      "front": {
+        "text": "intention\n(n.)"
+      },
+      "back": {
+        "text": "ความตั้งใจ\n\nตัวอย่าง: His intention was good.\nความตั้งใจของเขาดี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1864",
+      "front": {
+        "text": "invest\n(v.)"
+      },
+      "back": {
+        "text": "ลงทุน\n\nตัวอย่าง: Many people invest in stocks.\nคนจำนวนมากลงทุนในหุ้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1865",
+      "front": {
+        "text": "investigate\n(v.)"
+      },
+      "back": {
+        "text": "สืบสวน, สำรวจ\n\nตัวอย่าง: Police investigate the accident.\nตำรวจสืบสวนอุบัติเหตุ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1866",
+      "front": {
+        "text": "involved\n(adj.)"
+      },
+      "back": {
+        "text": "มีส่วนร่วม\n\nตัวอย่าง: She is involved in the project.\nเธอมีส่วนร่วมในโครงการ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1867",
+      "front": {
+        "text": "iron\n(n., v.)"
+      },
+      "back": {
+        "text": "เหล็ก\n\nตัวอย่าง: The gate is made of iron.\nประตูทำจากเหล็ก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1868",
+      "front": {
+        "text": "issue\n(n., v.)"
+      },
+      "back": {
+        "text": "ประเด็น; ออกเอกสาร\n\nตัวอย่าง: This issue needs attention.\nประเด็นนี้ต้องการความสนใจ\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1869",
+      "front": {
+        "text": "IT\n(n.)"
+      },
+      "back": {
+        "text": "ไอที\n\nตัวอย่าง: He works in IT.\nเขาทำงานด้านไอที"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1870",
+      "front": {
+        "text": "journey\n(n.)"
+      },
+      "back": {
+        "text": "การเดินทาง\n\nตัวอย่าง: The journey took five hours.\nการเดินทางใช้เวลาห้าชั่วโมง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1871",
+      "front": {
+        "text": "judge\n(n., v.)"
+      },
+      "back": {
+        "text": "ตัดสิน, พิจารณา\n\nตัวอย่าง: Do not judge too quickly.\nอย่าตัดสินเร็วเกินไป"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1872",
+      "front": {
+        "text": "keyboard\n(n.)"
+      },
+      "back": {
+        "text": "แป้นพิมพ์\n\nตัวอย่าง: Type your name on the keyboard.\nพิมพ์ชื่อของคุณบนแป้นพิมพ์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1873",
+      "front": {
+        "text": "kick\n(v., n.)"
+      },
+      "back": {
+        "text": "เตะ\n\nตัวอย่าง: He kicked the ball hard.\nเขาเตะลูกบอลแรง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1874",
+      "front": {
+        "text": "killing\n(n.)"
+      },
+      "back": {
+        "text": "ฆ่า\n\nตัวอย่าง: The killing shocked the town.\nการฆ่าทำให้เมืองตกใจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1875",
+      "front": {
+        "text": "kind (caring)\n(adj.)"
+      },
+      "back": {
+        "text": "ใจดี; เอาใจใส่\n\nตัวอย่าง: She is kind to animals.\nเธอใจดีกับสัตว์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1876",
+      "front": {
+        "text": "kiss\n(v., n.)"
+      },
+      "back": {
+        "text": "จูบ\n\nตัวอย่าง: She kissed her mother goodbye.\nเธอจูบลามารดา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1877",
+      "front": {
+        "text": "label\n(n., v.)"
+      },
+      "back": {
+        "text": "ฉลาก; ป้ายบอกข้อมูลสินค้า\n\nตัวอย่าง: Read the label before using.\nอ่านฉลากก่อนใช้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1878",
+      "front": {
+        "text": "laboratory\n(n.)"
+      },
+      "back": {
+        "text": "ห้องปฏิบัติการ\n\nตัวอย่าง: The laboratory tests water samples.\nห้องปฏิบัติการตรวจตัวอย่างน้ำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1879",
+      "front": {
+        "text": "lack\n(n., v.)"
+      },
+      "back": {
+        "text": "ขาด, ความขาดแคลน\n\nตัวอย่าง: The town lacks clean water.\nเมืองนี้ขาดแคลนน้ำสะอาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1880",
+      "front": {
+        "text": "latest\n(adj., n.)"
+      },
+      "back": {
+        "text": "ล่าสุด\n\nตัวอย่าง: Read the latest news.\nอ่านข่าวล่าสุด\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1881",
+      "front": {
+        "text": "layer\n(n.)"
+      },
+      "back": {
+        "text": "ชั้น\n\nตัวอย่าง: The cake has three layers.\nเค้กมีสามชั้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1882",
+      "front": {
+        "text": "leading\n(adj.)"
+      },
+      "back": {
+        "text": "ชั้นนำ\n\nตัวอย่าง: She is a leading scientist.\nเธอเป็นนักวิทยาศาสตร์ชั้นนำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1883",
+      "front": {
+        "text": "leaf\n(n.)"
+      },
+      "back": {
+        "text": "ใบไม้\n\nตัวอย่าง: A leaf fell into the pond.\nใบไม้ร่วงลงในบ่อ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1884",
+      "front": {
+        "text": "leather\n(n.)"
+      },
+      "back": {
+        "text": "หนัง\n\nตัวอย่าง: The bag is made of leather.\nกระเป๋าทำจากหนัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1885",
+      "front": {
+        "text": "legal\n(adj.)"
+      },
+      "back": {
+        "text": "ตามกฎหมาย\n\nตัวอย่าง: The contract is legal.\nสัญญานี้ถูกต้องตามกฎหมาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1886",
+      "front": {
+        "text": "leisure\n(n.)"
+      },
+      "back": {
+        "text": "เวลาว่าง\n\nตัวอย่าง: I read during leisure time.\nฉันอ่านหนังสือในเวลาว่าง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1887",
+      "front": {
+        "text": "length\n(n.)"
+      },
+      "back": {
+        "text": "ความยาว\n\nตัวอย่าง: Measure the length of the room.\nวัดความยาวของห้อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1888",
+      "front": {
+        "text": "lie (tell a lie)\n(v., n.)"
+      },
+      "back": {
+        "text": "โกหก; คำโกหก\n\nตัวอย่าง: He told a lie.\nเขาพูดโกหก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1889",
+      "front": {
+        "text": "limit\n(n., v.)"
+      },
+      "back": {
+        "text": "ขีดจำกัด; จำกัด\n\nตัวอย่าง: Set a limit on spending.\nกำหนดขีดจำกัดการใช้จ่าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1890",
+      "front": {
+        "text": "lip\n(n.)"
+      },
+      "back": {
+        "text": "ริมฝีปาก\n\nตัวอย่าง: She smiled with red lips.\nเธอยิ้มด้วยริมฝีปากแดง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1891",
+      "front": {
+        "text": "liquid\n(n., adj.)"
+      },
+      "back": {
+        "text": "ของเหลว; เหลว\n\nตัวอย่าง: Water is a liquid.\nน้ำเป็นของเหลว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1892",
+      "front": {
+        "text": "live\n(adj., adv.)"
+      },
+      "back": {
+        "text": "สด; ถ่ายทอดสด\n\nตัวอย่าง: We watched live music.\nเราดูดนตรีสด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1893",
+      "front": {
+        "text": "living\n(adj., n.)"
+      },
+      "back": {
+        "text": "มีชีวิต; การดำรงชีวิต\n\nตัวอย่าง: He earns a living as a cook.\nเขาหาเลี้ยงชีพเป็นพ่อครัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1894",
+      "front": {
+        "text": "locate\n(v.)"
+      },
+      "back": {
+        "text": "ตั้งอยู่; หาแหล่งที่ตั้ง\n\nตัวอย่าง: Can you locate the missing cat?\nคุณหาตำแหน่งแมวที่หายได้ไหม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1895",
+      "front": {
+        "text": "located\n(adj.)"
+      },
+      "back": {
+        "text": "ที่ตั้งอยู่\n\nตัวอย่าง: The hotel is located downtown.\nโรงแรมตั้งอยู่ใจกลางเมือง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1896",
+      "front": {
+        "text": "location\n(n.)"
+      },
+      "back": {
+        "text": "สถานที่ตั้ง\n\nตัวอย่าง: Send me your location.\nส่งตำแหน่งของคุณให้ฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1897",
+      "front": {
+        "text": "lonely\n(adj.)"
+      },
+      "back": {
+        "text": "โดดเดี่ยว\n\nตัวอย่าง: He felt lonely at home.\nเขารู้สึกโดดเดี่ยวที่บ้าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1898",
+      "front": {
+        "text": "loss\n(n.)"
+      },
+      "back": {
+        "text": "การสูญเสีย\n\nตัวอย่าง: The company reported a loss.\nบริษัทรายงานการขาดทุน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1899",
+      "front": {
+        "text": "luxury\n(n.)"
+      },
+      "back": {
+        "text": "ความหรูหรา\n\nตัวอย่าง: This hotel offers luxury.\nโรงแรมนี้มีความหรูหรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1900",
+      "front": {
+        "text": "mad\n(adj.)"
+      },
+      "back": {
+        "text": "โกรธ; บ้า\n\nตัวอย่าง: He is mad at me.\nเขาโกรธฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1901",
+      "front": {
+        "text": "magic\n(n., adj.)"
+      },
+      "back": {
+        "text": "เวทมนตร์; มหัศจรรย์\n\nตัวอย่าง: The show felt like magic.\nการแสดงเหมือนเวทมนตร์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1902",
+      "front": {
+        "text": "mainly\n(adv.)"
+      },
+      "back": {
+        "text": "ส่วนใหญ่\n\nตัวอย่าง: The class is mainly online.\nชั้นเรียนส่วนใหญ่เรียนออนไลน์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1903",
+      "front": {
+        "text": "marketing\n(n.)"
+      },
+      "back": {
+        "text": "การตลาด\n\nตัวอย่าง: Marketing attracts new customers.\nการตลาดดึงดูดลูกค้าใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1904",
+      "front": {
+        "text": "marriage\n(n.)"
+      },
+      "back": {
+        "text": "การแต่งงาน\n\nตัวอย่าง: Their marriage was happy.\nการแต่งงานของพวกเขามีความสุข"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1905",
+      "front": {
+        "text": "meanwhile\n(adv.)"
+      },
+      "back": {
+        "text": "ในระหว่างนั้น\n\nตัวอย่าง: Meanwhile, I made tea.\nในระหว่างนั้นฉันชงชา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1906",
+      "front": {
+        "text": "measure\n(v., n.)"
+      },
+      "back": {
+        "text": "วัด; มาตรการ\n\nตัวอย่าง: Measure the table carefully.\nวัดโต๊ะอย่างระมัดระวัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1907",
+      "front": {
+        "text": "medium\n(adj., n.)"
+      },
+      "back": {
+        "text": "ปานกลาง; สื่อกลาง\n\nตัวอย่าง: Choose a medium size.\nเลือกขนาดปานกลาง\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1908",
+      "front": {
+        "text": "mental\n(adj.)"
+      },
+      "back": {
+        "text": "ทางจิตใจ\n\nตัวอย่าง: Mental health matters.\nสุขภาพจิตสำคัญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1909",
+      "front": {
+        "text": "mess\n(n., v.)"
+      },
+      "back": {
+        "text": "ความยุ่งเหยิง; ทำให้เลอะ\n\nตัวอย่าง: Your room is a mess.\nห้องของคุณรกมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1910",
+      "front": {
+        "text": "mild\n(adj.)"
+      },
+      "back": {
+        "text": "อ่อนโยน\n\nตัวอย่าง: The curry is mild.\nแกงนี้รสอ่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1911",
+      "front": {
+        "text": "mine (hole in the ground)\n(n.)"
+      },
+      "back": {
+        "text": "เหมือง\n\nตัวอย่าง: They work in a gold mine.\nพวกเขาทำงานในเหมืองทอง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1912",
+      "front": {
+        "text": "mix\n(v., n.)"
+      },
+      "back": {
+        "text": "ผสม; ส่วนผสม\n\nตัวอย่าง: Mix the paint well.\nผสมสีให้เข้ากัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1913",
+      "front": {
+        "text": "mixture\n(n.)"
+      },
+      "back": {
+        "text": "ส่วนผสม\n\nตัวอย่าง: The mixture smells sweet.\nส่วนผสมมีกลิ่นหอม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1914",
+      "front": {
+        "text": "mud\n(n.)"
+      },
+      "back": {
+        "text": "โคลน\n\nตัวอย่าง: My shoes are covered in mud.\nรองเท้าของฉันเปื้อนโคลน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1915",
+      "front": {
+        "text": "murder\n(n., v.)"
+      },
+      "back": {
+        "text": "ฆาตกรรม; ฆ่า\n\nตัวอย่าง: The police investigated the murder.\nตำรวจสืบสวนคดีฆาตกรรม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1916",
+      "front": {
+        "text": "muscle\n(n.)"
+      },
+      "back": {
+        "text": "กล้ามเนื้อ\n\nตัวอย่าง: Running builds muscle.\nการวิ่งสร้างกล้ามเนื้อ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1917",
+      "front": {
+        "text": "mystery\n(n.)"
+      },
+      "back": {
+        "text": "ปริศนา\n\nตัวอย่าง: The missing key is a mystery.\nกุญแจที่หายเป็นปริศนา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1918",
+      "front": {
+        "text": "nail\n(n.)"
+      },
+      "back": {
+        "text": "เล็บ\n\nตัวอย่าง: The nail is in the wall.\nตะปูอยู่ในกำแพง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1919",
+      "front": {
+        "text": "narrative\n(n., adj.)"
+      },
+      "back": {
+        "text": "เรื่องเล่า; เกี่ยวกับเรื่องเล่า\n\nตัวอย่าง: The novel has a clear narrative.\nนวนิยายมีเรื่องเล่าชัดเจน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1920",
+      "front": {
+        "text": "nation\n(n.)"
+      },
+      "back": {
+        "text": "ชาติ\n\nตัวอย่าง: The nation celebrated together.\nชาติฉลองร่วมกัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1921",
+      "front": {
+        "text": "native\n(adj., n.)"
+      },
+      "back": {
+        "text": "พื้นเมือง; คนพื้นเมือง\n\nตัวอย่าง: She speaks her native language.\nเธอพูดภาษาพื้นเมืองของเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1922",
+      "front": {
+        "text": "naturally\n(adv.)"
+      },
+      "back": {
+        "text": "โดยธรรมชาติ\n\nตัวอย่าง: Children naturally ask questions.\nเด็กถามคำถามโดยธรรมชาติ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1923",
+      "front": {
+        "text": "neat\n(adj.)"
+      },
+      "back": {
+        "text": "เรียบร้อย\n\nตัวอย่าง: Her desk is neat.\nโต๊ะของเธอเรียบร้อย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1924",
+      "front": {
+        "text": "necessarily\n(adv.)"
+      },
+      "back": {
+        "text": "โดยจำเป็น\n\nตัวอย่าง: Success is not necessarily easy.\nความสำเร็จไม่จำเป็นต้องง่าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1925",
+      "front": {
+        "text": "net\n(n.)"
+      },
+      "back": {
+        "text": "ตาข่าย\n\nตัวอย่าง: The ball hit the net.\nลูกบอลโดนตาข่าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1926",
+      "front": {
+        "text": "nor\n(conj., adv.)"
+      },
+      "back": {
+        "text": "หรือ\n\nตัวอย่าง: He cannot swim, nor can I.\nเขาว่ายน้ำไม่ได้ และฉันก็ไม่ได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1927",
+      "front": {
+        "text": "northern\n(adj.)"
+      },
+      "back": {
+        "text": "ภาคเหนือ\n\nตัวอย่าง: Northern cities are colder in winter.\nเมืองทางเหนือหนาวกว่าในฤดูหนาว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1928",
+      "front": {
+        "text": "nuclear\n(adj.)"
+      },
+      "back": {
+        "text": "นิวเคลียร์\n\nตัวอย่าง: Nuclear energy needs careful control.\nพลังงานนิวเคลียร์ต้องควบคุมอย่างรอบคอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1929",
+      "front": {
+        "text": "obvious\n(adj.)"
+      },
+      "back": {
+        "text": "ชัดเจน, เด่นชัด\n\nตัวอย่าง: The answer is obvious now.\nตอนนี้คำตอบชัดเจนแล้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1930",
+      "front": {
+        "text": "obviously\n(adv.)"
+      },
+      "back": {
+        "text": "เห็นได้ชัด\n\nตัวอย่าง: She was obviously very tired.\nเห็นได้ชัดว่าเธอเหนื่อยมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1931",
+      "front": {
+        "text": "occasion\n(n.)"
+      },
+      "back": {
+        "text": "โอกาส, จังหวะ\n\nตัวอย่าง: It was a special occasion.\nมันเป็นโอกาสพิเศษ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1932",
+      "front": {
+        "text": "occur\n(v.)"
+      },
+      "back": {
+        "text": "เกิดขึ้น, มีอยู่\n\nตัวอย่าง: Mistakes can occur at any time.\nข้อผิดพลาดอาจเกิดขึ้นได้ทุกเวลา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1933",
+      "front": {
+        "text": "odd\n(adj.)"
+      },
+      "back": {
+        "text": "แปลก\n\nตัวอย่าง: That is an odd question.\nนั่นเป็นคำถามแปลก ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1934",
+      "front": {
+        "text": "official\n(adj., n.)"
+      },
+      "back": {
+        "text": "เป็นทางการ\n\nตัวอย่าง: This is an official document.\nนี่คือเอกสารทางการ\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1935",
+      "front": {
+        "text": "old-fashioned\n(adj.)"
+      },
+      "back": {
+        "text": "ล้าสมัย\n\nตัวอย่าง: He wears old-fashioned clothes.\nเขาสวมเสื้อผ้าแบบเก่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1936",
+      "front": {
+        "text": "organized\n(adj.)"
+      },
+      "back": {
+        "text": "เป็นระเบียบ\n\nตัวอย่าง: Her notes are well organized.\nโน้ตของเธอจัดเป็นระเบียบดี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1937",
+      "front": {
+        "text": "organizer\n(n.)"
+      },
+      "back": {
+        "text": "ออแกไนเซอร์\n\nตัวอย่าง: The organizer sent an invitation.\nผู้จัดงานส่งคำเชิญ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1938",
+      "front": {
+        "text": "originally\n(adv.)"
+      },
+      "back": {
+        "text": "เดิมที\n\nตัวอย่าง: Originally, the room was smaller.\nเดิมทีห้องนี้เล็กกว่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1939",
+      "front": {
+        "text": "ought\n(modal v.)"
+      },
+      "back": {
+        "text": "ควร\n\nตัวอย่าง: You ought to get some rest.\nคุณควรพักผ่อนบ้าง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1940",
+      "front": {
+        "text": "ours\n(pron.)"
+      },
+      "back": {
+        "text": "ของเรา\n\nตัวอย่าง: The garden is ours now.\nตอนนี้สวนเป็นของเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1941",
+      "front": {
+        "text": "outdoor\n(adj.)"
+      },
+      "back": {
+        "text": "กลางแจ้ง\n\nตัวอย่าง: We enjoy outdoor activities.\nเราชอบกิจกรรมกลางแจ้ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1942",
+      "front": {
+        "text": "outdoors\n(adv.)"
+      },
+      "back": {
+        "text": "กลางแจ้ง\n\nตัวอย่าง: The children are playing outdoors.\nเด็ก ๆ กำลังเล่นข้างนอก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1943",
+      "front": {
+        "text": "package\n(n., v.)"
+      },
+      "back": {
+        "text": "หีบห่อ; บรรจุภัณฑ์; แพ็กเกจ (รวมชุด)\n\nตัวอย่าง: The package arrived this morning.\nพัสดุมาถึงเมื่อเช้า\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1944",
+      "front": {
+        "text": "painful\n(adj.)"
+      },
+      "back": {
+        "text": "เจ็บปวด\n\nตัวอย่าง: The cut was very painful.\nแผลนั้นเจ็บมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1945",
+      "front": {
+        "text": "pale\n(adj.)"
+      },
+      "back": {
+        "text": "ซีด\n\nตัวอย่าง: She looked pale after the run.\nเธอดูซีดหลังวิ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1946",
+      "front": {
+        "text": "pan\n(n.)"
+      },
+      "back": {
+        "text": "กระทะ\n\nตัวอย่าง: Heat the oil in a pan.\nอุ่นน้ำมันในกระทะ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1947",
+      "front": {
+        "text": "particularly\n(adv.)"
+      },
+      "back": {
+        "text": "โดยเฉพาะอย่างยิ่ง\n\nตัวอย่าง: I particularly enjoy quiet mornings.\nฉันชอบตอนเช้าที่เงียบสงบเป็นพิเศษ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1948",
+      "front": {
+        "text": "passion\n(n.)"
+      },
+      "back": {
+        "text": "ความหลงใหล\n\nตัวอย่าง: Music is his greatest passion.\nดนตรีคือความหลงใหลที่สุดของเขา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1949",
+      "front": {
+        "text": "path\n(n.)"
+      },
+      "back": {
+        "text": "เส้นทาง\n\nตัวอย่าง: This path leads to the beach.\nเส้นทางนี้นำไปสู่ชายหาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1950",
+      "front": {
+        "text": "payment\n(n.)"
+      },
+      "back": {
+        "text": "การชำระเงิน\n\nตัวอย่าง: Your payment was received.\nได้รับการชำระเงินของคุณแล้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1951",
+      "front": {
+        "text": "peaceful\n(adj.)"
+      },
+      "back": {
+        "text": "สงบ\n\nตัวอย่าง: The village is peaceful at night.\nหมู่บ้านสงบในเวลากลางคืน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1952",
+      "front": {
+        "text": "percentage\n(n.)"
+      },
+      "back": {
+        "text": "เปอร์เซ็นต์/ร้อยละ\n\nตัวอย่าง: A high percentage passed.\nร้อยละสูงสอบผ่าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1953",
+      "front": {
+        "text": "perfectly\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างสมบูรณ์แบบ\n\nตัวอย่าง: The machine works perfectly.\nเครื่องทำงานอย่างสมบูรณ์แบบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1954",
+      "front": {
+        "text": "performance\n(n.)"
+      },
+      "back": {
+        "text": "ผลงาน/ประสิทธิภาพ\n\nตัวอย่าง: Her performance was excellent.\nผลงานของเธอยอดเยี่ยม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1955",
+      "front": {
+        "text": "personally\n(adv.)"
+      },
+      "back": {
+        "text": "โดยส่วนตัว\n\nตัวอย่าง: I personally prefer tea.\nโดยส่วนตัวฉันชอบชา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1956",
+      "front": {
+        "text": "persuade\n(v.)"
+      },
+      "back": {
+        "text": "ชักชวน, ทำให้เชื่อ\n\nตัวอย่าง: She persuaded him to stay.\nเธอชักชวนให้เขาอยู่ต่อ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1957",
+      "front": {
+        "text": "photographer\n(n.)"
+      },
+      "back": {
+        "text": "ช่างภาพ\n\nตัวอย่าง: The photographer arrived early.\nช่างภาพมาถึงเร็ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1958",
+      "front": {
+        "text": "pin\n(n., v.)"
+      },
+      "back": {
+        "text": "พิน\n\nตัวอย่าง: Pin the note to the board.\nติดกระดาษโน้ตกับบอร์ดด้วยหมุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1959",
+      "front": {
+        "text": "pipe\n(n.)"
+      },
+      "back": {
+        "text": "ท่อ\n\nตัวอย่าง: Water flowed through the pipe.\nน้ำไหลผ่านท่อ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1960",
+      "front": {
+        "text": "planning\n(n.)"
+      },
+      "back": {
+        "text": "การวางแผน\n\nตัวอย่าง: Careful planning saves time.\nการวางแผนรอบคอบช่วยประหยัดเวลา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1961",
+      "front": {
+        "text": "pleasant\n(adj.)"
+      },
+      "back": {
+        "text": "น่ายินดี, น่าสบาย\n\nตัวอย่าง: The weather is pleasant today.\nอากาศวันนี้น่าสบาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1962",
+      "front": {
+        "text": "pleasure\n(n.)"
+      },
+      "back": {
+        "text": "ความสุข\n\nตัวอย่าง: Reading gives me pleasure.\nการอ่านทำให้ฉันมีความสุข"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1963",
+      "front": {
+        "text": "plenty\n(pron.)"
+      },
+      "back": {
+        "text": "มากมาย\n\nตัวอย่าง: We have plenty of time.\nเรามีเวลามากมาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1964",
+      "front": {
+        "text": "plot\n(n., v.)"
+      },
+      "back": {
+        "text": "พล็อต\n\nตัวอย่าง: The film has an unusual plot.\nภาพยนตร์มีพล็อตแปลก\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1965",
+      "front": {
+        "text": "plus\n(prep., adj., conj., n.)"
+      },
+      "back": {
+        "text": "บวก; นอกจากนี้\n\nตัวอย่าง: Two plus two equals four.\nสองบวกสองเท่ากับสี่\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1966",
+      "front": {
+        "text": "poem\n(n.)"
+      },
+      "back": {
+        "text": "บทกวี\n\nตัวอย่าง: She wrote a short poem.\nเธอเขียนบทกวีสั้น ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1967",
+      "front": {
+        "text": "poet\n(n.)"
+      },
+      "back": {
+        "text": "กวี\n\nตัวอย่าง: The poet read his work.\nกวีอ่านผลงานของเขา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1968",
+      "front": {
+        "text": "poetry\n(n.)"
+      },
+      "back": {
+        "text": "บทกวี\n\nตัวอย่าง: I enjoy reading poetry.\nฉันชอบอ่านบทกวี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1969",
+      "front": {
+        "text": "poisonous\n(adj.)"
+      },
+      "back": {
+        "text": "เป็นพิษ\n\nตัวอย่าง: That mushroom is poisonous.\nเห็ดนั้นมีพิษ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1970",
+      "front": {
+        "text": "policy\n(n.)"
+      },
+      "back": {
+        "text": "นโยบาย\n\nตัวอย่าง: The school changed its policy.\nโรงเรียนเปลี่ยนนโยบาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1971",
+      "front": {
+        "text": "political\n(adj.)"
+      },
+      "back": {
+        "text": "ทางการเมือง\n\nตัวอย่าง: They discussed political issues.\nพวกเขาคุยเรื่องประเด็นการเมือง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1972",
+      "front": {
+        "text": "politician\n(n.)"
+      },
+      "back": {
+        "text": "นักการเมือง\n\nตัวอย่าง: The politician answered questions.\nนักการเมืองตอบคำถาม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1973",
+      "front": {
+        "text": "politics\n(n.)"
+      },
+      "back": {
+        "text": "การเมือง\n\nตัวอย่าง: Politics can be confusing.\nการเมืองอาจทำให้งง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1974",
+      "front": {
+        "text": "port\n(n.)"
+      },
+      "back": {
+        "text": "พอร์ต\n\nตัวอย่าง: Connect the cable to the port.\nต่อสายเคเบิลเข้าพอร์ต"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1975",
+      "front": {
+        "text": "portrait\n(n.)"
+      },
+      "back": {
+        "text": "ภาพเหมือน\n\nตัวอย่าง: The museum displayed her portrait.\nพิพิธภัณฑ์จัดแสดงภาพเหมือนของเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1976",
+      "front": {
+        "text": "possibly\n(adv.)"
+      },
+      "back": {
+        "text": "อาจจะ\n\nตัวอย่าง: Possibly, we can meet tomorrow.\nอาจเป็นไปได้ว่าเราพบกันพรุ่งนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1977",
+      "front": {
+        "text": "pot\n(n.)"
+      },
+      "back": {
+        "text": "หม้อ\n\nตัวอย่าง: The soup is simmering in a large pot.\nซุปกำลังเคี่ยวอยู่ในหม้อใบใหญ่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1978",
+      "front": {
+        "text": "pour\n(v.)"
+      },
+      "back": {
+        "text": "เท; ริน\n\nตัวอย่าง: Pour the milk into the glass.\nรินนมลงในแก้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1979",
+      "front": {
+        "text": "poverty\n(n.)"
+      },
+      "back": {
+        "text": "ความยากจน\n\nตัวอย่าง: The charity fights poverty in rural areas.\nองค์กรการกุศลต่อสู้กับความยากจนในพื้นที่ชนบท"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1980",
+      "front": {
+        "text": "powerful\n(adj.)"
+      },
+      "back": {
+        "text": "ทรงพลัง\n\nตัวอย่าง: The storm brought powerful winds.\nพายุนำลมที่รุนแรงมา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1981",
+      "front": {
+        "text": "practical\n(adj.)"
+      },
+      "back": {
+        "text": "ใช้ได้จริง\n\nตัวอย่าง: Choose practical shoes for walking.\nเลือกรองเท้าที่ใช้ได้จริงสำหรับเดิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1982",
+      "front": {
+        "text": "pray\n(v.)"
+      },
+      "back": {
+        "text": "สวดอ้อนวอน\n\nตัวอย่าง: They pray together before dinner.\nพวกเขาสวดอ้อนวอนด้วยกันก่อนอาหารเย็น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1983",
+      "front": {
+        "text": "prayer\n(n.)"
+      },
+      "back": {
+        "text": "คำอธิษฐาน\n\nตัวอย่าง: He said a quiet prayer.\nเขากล่าวคำอธิษฐานเบา ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1984",
+      "front": {
+        "text": "prediction\n(n.)"
+      },
+      "back": {
+        "text": "การทำนาย\n\nตัวอย่าง: Her weather prediction was completely correct.\nคำทำนายสภาพอากาศของเธอถูกต้องทั้งหมด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1985",
+      "front": {
+        "text": "prepared\n(adj.)"
+      },
+      "back": {
+        "text": "ที่เตรียมพร้อม\n\nตัวอย่าง: We are prepared for the meeting.\nเราพร้อมสำหรับการประชุมแล้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1986",
+      "front": {
+        "text": "presentation\n(n.)"
+      },
+      "back": {
+        "text": "การนำเสนอ\n\nตัวอย่าง: His presentation lasted ten minutes.\nการนำเสนอของเขาใช้เวลาสิบนาที"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1987",
+      "front": {
+        "text": "press\n(v., n.)"
+      },
+      "back": {
+        "text": "กด; สื่อมวลชน\n\nตัวอย่าง: Press this button to begin.\nกดปุ่มนี้เพื่อเริ่มต้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1988",
+      "front": {
+        "text": "pressure\n(n.)"
+      },
+      "back": {
+        "text": "แรงกดดัน\n\nตัวอย่าง: Too much pressure causes mistakes.\nแรงกดดันมากเกินไปทำให้เกิดข้อผิดพลาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1989",
+      "front": {
+        "text": "pretend\n(v.)"
+      },
+      "back": {
+        "text": "แกล้งทำ\n\nตัวอย่าง: Do not pretend to understand.\nอย่าแกล้งทำเป็นว่าเข้าใจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1990",
+      "front": {
+        "text": "previous\n(adj.)"
+      },
+      "back": {
+        "text": "ก่อนหน้า\n\nตัวอย่าง: Read the previous chapter first.\nอ่านบทก่อนหน้าก่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1991",
+      "front": {
+        "text": "priest\n(n.)"
+      },
+      "back": {
+        "text": "นักบวช\n\nตัวอย่าง: The priest welcomed the visitors.\nนักบวชต้อนรับผู้มาเยือน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1992",
+      "front": {
+        "text": "primary\n(adj.)"
+      },
+      "back": {
+        "text": "หลัก; เบื้องต้น\n\nตัวอย่าง: Safety is our primary concern.\nความปลอดภัยคือข้อกังวลหลักของเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1993",
+      "front": {
+        "text": "prince\n(n.)"
+      },
+      "back": {
+        "text": "เจ้าชาย\n\nตัวอย่าง: The prince rode a white horse.\nเจ้าชายขี่ม้าสีขาว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1994",
+      "front": {
+        "text": "princess\n(n.)"
+      },
+      "back": {
+        "text": "เจ้าหญิง\n\nตัวอย่าง: The princess waved to the crowd.\nเจ้าหญิงโบกมือให้ฝูงชน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1995",
+      "front": {
+        "text": "principal\n(n., adj.)"
+      },
+      "back": {
+        "text": "ผู้อำนวยการ; หลัก\n\nตัวอย่าง: The principal spoke at assembly.\nผู้อำนวยการกล่าวในที่ประชุมโรงเรียน\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1996",
+      "front": {
+        "text": "printing\n(n.)"
+      },
+      "back": {
+        "text": "การพิมพ์\n\nตัวอย่าง: The printing on this label is tiny.\nตัวพิมพ์บนฉลากนี้เล็กมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1997",
+      "front": {
+        "text": "prisoner\n(n.)"
+      },
+      "back": {
+        "text": "นักโทษ\n\nตัวอย่าง: The prisoner wrote to his family.\nนักโทษเขียนจดหมายถึงครอบครัวของเขา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1998",
+      "front": {
+        "text": "private\n(adj.)"
+      },
+      "back": {
+        "text": "ส่วนตัว; เอกชน\n\nตัวอย่าง: This is a private conversation.\nนี่เป็นการสนทนาส่วนตัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-1999",
+      "front": {
+        "text": "producer\n(n.)"
+      },
+      "back": {
+        "text": "ผู้ผลิต\n\nตัวอย่าง: The producer approved the final film.\nผู้อำนวยการสร้างอนุมัติภาพยนตร์ฉบับสุดท้าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2000",
+      "front": {
+        "text": "production\n(n.)"
+      },
+      "back": {
+        "text": "การผลิต\n\nตัวอย่าง: Production stopped during the storm.\nการผลิตหยุดลงระหว่างพายุ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2001",
+      "front": {
+        "text": "profession\n(n.)"
+      },
+      "back": {
+        "text": "วิชาชีพ\n\nตัวอย่าง: Teaching is a demanding profession.\nการสอนเป็นวิชาชีพที่ท้าทาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2002",
+      "front": {
+        "text": "promote\n(v.)"
+      },
+      "back": {
+        "text": "ส่งเสริม; เลื่อนตำแหน่ง\n\nตัวอย่าง: The store promoted its summer sale.\nร้านค้าส่งเสริมการขายลดราคาช่วงฤดูร้อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2003",
+      "front": {
+        "text": "proper\n(adj.)"
+      },
+      "back": {
+        "text": "เหมาะสม; ถูกต้อง\n\nตัวอย่าง: Wear proper shoes for hiking.\nสวมรองเท้าที่เหมาะสมสำหรับเดินป่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2004",
+      "front": {
+        "text": "properly\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างเหมาะสม\n\nตัวอย่าง: Please close the door properly.\nโปรดปิดประตูให้เรียบร้อย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2005",
+      "front": {
+        "text": "property\n(n.)"
+      },
+      "back": {
+        "text": "ทรัพย์สิน\n\nตัวอย่าง: The house is private property.\nบ้านหลังนั้นเป็นทรัพย์สินส่วนบุคคล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2006",
+      "front": {
+        "text": "protest\n(n., v.)"
+      },
+      "back": {
+        "text": "การประท้วง; ประท้วง\n\nตัวอย่าง: Workers protested outside the building.\nคนงานประท้วงนอกอาคาร"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2007",
+      "front": {
+        "text": "proud\n(adj.)"
+      },
+      "back": {
+        "text": "ภูมิใจ\n\nตัวอย่าง: Her parents are proud of her.\nพ่อแม่ของเธอภูมิใจในตัวเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2008",
+      "front": {
+        "text": "prove\n(v.)"
+      },
+      "back": {
+        "text": "พิสูจน์\n\nตัวอย่าง: The results prove our idea works.\nผลลัพธ์พิสูจน์ว่าแนวคิดของเราใช้ได้ผล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2009",
+      "front": {
+        "text": "punish\n(v.)"
+      },
+      "back": {
+        "text": "ลงโทษ\n\nตัวอย่าง: Teachers should not punish children unfairly.\nครูไม่ควรลงโทษเด็กอย่างไม่เป็นธรรม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2010",
+      "front": {
+        "text": "punishment\n(n.)"
+      },
+      "back": {
+        "text": "การลงโทษ\n\nตัวอย่าง: The punishment seemed too severe.\nการลงโทษนั้นดูรุนแรงเกินไป"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2011",
+      "front": {
+        "text": "qualification\n(n.)"
+      },
+      "back": {
+        "text": "คุณวุฒิ; คุณสมบัติ\n\nตัวอย่าง: This job requires special qualifications.\nงานนี้ต้องการคุณวุฒิเฉพาะทาง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2012",
+      "front": {
+        "text": "qualified\n(adj.)"
+      },
+      "back": {
+        "text": "มีคุณสมบัติ\n\nตัวอย่าง: She is qualified for the position.\nเธอมีคุณสมบัติเหมาะสมสำหรับตำแหน่งนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2013",
+      "front": {
+        "text": "quit\n(v.)"
+      },
+      "back": {
+        "text": "ลาออก; เลิก\n\nตัวอย่าง: She decided to quit her job.\nเธอตัดสินใจลาออกจากงาน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2014",
+      "front": {
+        "text": "quotation\n(n.)"
+      },
+      "back": {
+        "text": "ใบเสนอราคา\n\nตัวอย่าง: We requested a quotation for repairs.\nเราขอใบเสนอราคาสำหรับการซ่อม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2015",
+      "front": {
+        "text": "quote\n(v., n.)"
+      },
+      "back": {
+        "text": "อ้างอิง; คำอ้างอิง\n\nตัวอย่าง: The report quoted the mayor directly.\nรายงานอ้างคำพูดของนายกเทศมนตรีโดยตรง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2016",
+      "front": {
+        "text": "race (of people)\n(n.)"
+      },
+      "back": {
+        "text": "เชื้อชาติ\n\nตัวอย่าง: The census records each person's race.\nสำมะโนบันทึกเชื้อชาติของแต่ละคน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2017",
+      "front": {
+        "text": "racing\n(n.)"
+      },
+      "back": {
+        "text": "การลอกลาย\n\nตัวอย่าง: He enjoys racing on weekends.\nเขาชอบการแข่งรถในวันหยุดสุดสัปดาห์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2018",
+      "front": {
+        "text": "range\n(n., v.)"
+      },
+      "back": {
+        "text": "ช่วง; มีตั้งแต่ถึง\n\nตัวอย่าง: The store sells a wide range of books.\nร้านขายหนังสือหลากหลายประเภท\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2019",
+      "front": {
+        "text": "rare\n(adj.)"
+      },
+      "back": {
+        "text": "หายาก\n\nตัวอย่าง: Snow is rare in this city.\nหิมะพบได้ยากในเมืองนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2020",
+      "front": {
+        "text": "rarely\n(adv.)"
+      },
+      "back": {
+        "text": "ไม่บ่อย\n\nตัวอย่าง: We rarely eat out.\nเราไม่ค่อยออกไปกินข้าวนอกบ้าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2021",
+      "front": {
+        "text": "reaction\n(n.)"
+      },
+      "back": {
+        "text": "ปฏิกิริยา\n\nตัวอย่าง: His reaction was calm.\nปฏิกิริยาของเขาสงบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2022",
+      "front": {
+        "text": "reality\n(n.)"
+      },
+      "back": {
+        "text": "ความเป็นจริง\n\nตัวอย่าง: Reality is often difficult.\nความเป็นจริงมักยาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2023",
+      "front": {
+        "text": "receipt\n(n.)"
+      },
+      "back": {
+        "text": "ใบเสร็จรับเงิน\n\nตัวอย่าง: Keep the receipt for returns.\nเก็บใบเสร็จไว้สำหรับคืนสินค้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2024",
+      "front": {
+        "text": "reference\n(n.)"
+      },
+      "back": {
+        "text": "เอกสารอ้างอิง\n\nตัวอย่าง: Use this book as a reference.\nใช้หนังสือเล่มนี้เป็นเอกสารอ้างอิง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2025",
+      "front": {
+        "text": "reflect\n(v.)"
+      },
+      "back": {
+        "text": "สะท้อน\n\nตัวอย่าง: The mirror reflects the light.\nกระจกสะท้อนแสง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2026",
+      "front": {
+        "text": "regularly\n(adv.)"
+      },
+      "back": {
+        "text": "เป็นประจำ\n\nตัวอย่าง: She exercises regularly.\nเธอออกกำลังกายเป็นประจำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2027",
+      "front": {
+        "text": "reject\n(v.)"
+      },
+      "back": {
+        "text": "ปฏิเสธ\n\nตัวอย่าง: The shop rejected my card.\nร้านปฏิเสธบัตรของฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2028",
+      "front": {
+        "text": "relate\n(v.)"
+      },
+      "back": {
+        "text": "เกี่ยวข้อง\n\nตัวอย่าง: How does this relate to us?\nเรื่องนี้เกี่ยวข้องกับเราอย่างไร"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2029",
+      "front": {
+        "text": "related\n(adj.)"
+      },
+      "back": {
+        "text": "ที่เกี่ยวข้อง\n\nตัวอย่าง: These two topics are related.\nสองหัวข้อนี้เกี่ยวข้องกัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2030",
+      "front": {
+        "text": "relation\n(n.)"
+      },
+      "back": {
+        "text": "ความสัมพันธ์\n\nตัวอย่าง: They have a close relation.\nพวกเขามีความสัมพันธ์ใกล้ชิด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2031",
+      "front": {
+        "text": "relative\n(adj., n.)"
+      },
+      "back": {
+        "text": "ญาติ; สัมพัทธ์\n\nตัวอย่าง: A relative visited yesterday.\nญาติคนหนึ่งมาเยี่ยมเมื่อวาน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2032",
+      "front": {
+        "text": "relaxed\n(adj.)"
+      },
+      "back": {
+        "text": "ผ่อนคลาย\n\nตัวอย่าง: She looked relaxed today.\nเธอดูผ่อนคลายวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2033",
+      "front": {
+        "text": "relaxing\n(adj.)"
+      },
+      "back": {
+        "text": "ชวนผ่อนคลาย\n\nตัวอย่าง: The music is relaxing.\nดนตรีชวนผ่อนคลาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2034",
+      "front": {
+        "text": "release\n(v., n.)"
+      },
+      "back": {
+        "text": "ปล่อย; การเปิดตัว\n\nตัวอย่าง: They released a new album.\nพวกเขาเปิดตัวอัลบั้มใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2035",
+      "front": {
+        "text": "religion\n(n.)"
+      },
+      "back": {
+        "text": "ศาสนา\n\nตัวอย่าง: Religion is important to him.\nศาสนาสำคัญสำหรับเขา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2036",
+      "front": {
+        "text": "religious\n(adj.)"
+      },
+      "back": {
+        "text": "เกี่ยวกับศาสนา\n\nตัวอย่าง: They visited a religious site.\nพวกเขาเยี่ยมสถานที่ทางศาสนา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2037",
+      "front": {
+        "text": "remain\n(v.)"
+      },
+      "back": {
+        "text": "ยังคงอยู่\n\nตัวอย่าง: Only two cookies remain.\nเหลือคุกกี้เพียงสองชิ้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2038",
+      "front": {
+        "text": "remind\n(v.)"
+      },
+      "back": {
+        "text": "เตือน\n\nตัวอย่าง: Please remind me tomorrow.\nโปรดเตือนฉันพรุ่งนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2039",
+      "front": {
+        "text": "remote\n(adj.)"
+      },
+      "back": {
+        "text": "ห่างไกล\n\nตัวอย่าง: They live in a remote village.\nพวกเขาอาศัยอยู่ในหมู่บ้านห่างไกล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2040",
+      "front": {
+        "text": "rent\n(n., v.)"
+      },
+      "back": {
+        "text": "ค่าเช่า; เช่า\n\nตัวอย่าง: We rent a small apartment.\nเราเช่าอพาร์ตเมนต์เล็ก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2041",
+      "front": {
+        "text": "repeated\n(adj.)"
+      },
+      "back": {
+        "text": "ที่เกิดซ้ำ\n\nตัวอย่าง: Repeated errors slow the work.\nข้อผิดพลาดที่เกิดซ้ำทำให้งานช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2042",
+      "front": {
+        "text": "represent\n(v.)"
+      },
+      "back": {
+        "text": "เป็นตัวแทน\n\nตัวอย่าง: This flag represents our school.\nธงนี้เป็นตัวแทนโรงเรียนของเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2043",
+      "front": {
+        "text": "require\n(v.)"
+      },
+      "back": {
+        "text": "ต้องการ; กำหนดให้\n\nตัวอย่าง: This job requires patience.\nงานนี้ต้องการความอดทน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2044",
+      "front": {
+        "text": "reservation\n(n.)"
+      },
+      "back": {
+        "text": "การจอง\n\nตัวอย่าง: I made a hotel reservation.\nฉันทำการจองโรงแรม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2045",
+      "front": {
+        "text": "resource\n(n.)"
+      },
+      "back": {
+        "text": "ทรัพยากร\n\nตัวอย่าง: Water is a valuable resource.\nน้ำเป็นทรัพยากรมีค่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2046",
+      "front": {
+        "text": "responsibility\n(n.)"
+      },
+      "back": {
+        "text": "ความรับผิดชอบ\n\nตัวอย่าง: It is your responsibility.\nมันคือความรับผิดชอบของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2047",
+      "front": {
+        "text": "responsible\n(adj.)"
+      },
+      "back": {
+        "text": "รับผิดชอบ\n\nตัวอย่าง: She is responsible for sales.\nเธอรับผิดชอบฝ่ายขาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2048",
+      "front": {
+        "text": "retire\n(v.)"
+      },
+      "back": {
+        "text": "เกษียณ\n\nตัวอย่าง: My father will retire soon.\nพ่อของฉันจะเกษียณเร็ว ๆ นี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2049",
+      "front": {
+        "text": "retired\n(adj.)"
+      },
+      "back": {
+        "text": "เกษียณแล้ว\n\nตัวอย่าง: She is a retired teacher.\nเธอเป็นครูที่เกษียณแล้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2050",
+      "front": {
+        "text": "revise\n(v.)"
+      },
+      "back": {
+        "text": "แก้ไข; ทบทวน\n\nตัวอย่าง: Please revise your essay.\nโปรดแก้ไขเรียงความของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2051",
+      "front": {
+        "text": "risk\n(n., v.)"
+      },
+      "back": {
+        "text": "ความเสี่ยง; เสี่ยง\n\nตัวอย่าง: Do not risk your health.\nอย่าเสี่ยงสุขภาพของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2052",
+      "front": {
+        "text": "robot\n(n.)"
+      },
+      "back": {
+        "text": "หุ่นยนต์\n\nตัวอย่าง: The robot carried boxes across the floor.\nหุ่นยนต์ขนกล่องข้ามพื้นห้อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2053",
+      "front": {
+        "text": "roll\n(v., n.)"
+      },
+      "back": {
+        "text": "กลิ้ง; ม้วน\n\nตัวอย่าง: The ball began to roll downhill.\nลูกบอลเริ่มกลิ้งลงเนิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2054",
+      "front": {
+        "text": "romantic\n(adj.)"
+      },
+      "back": {
+        "text": "โรแมนติก\n\nตัวอย่าง: They chose a romantic restaurant for dinner.\nพวกเขาเลือกร้านอาหารโรแมนติกสำหรับมื้อเย็น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2055",
+      "front": {
+        "text": "rope\n(n.)"
+      },
+      "back": {
+        "text": "เชือก\n\nตัวอย่าง: Tie the boat to the rope.\nผูกเรือไว้กับเชือก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2056",
+      "front": {
+        "text": "rough\n(adj.)"
+      },
+      "back": {
+        "text": "ขรุขระ\n\nตัวอย่าง: The road became rough after the bridge.\nถนนขรุขระหลังจากสะพาน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2057",
+      "front": {
+        "text": "royal\n(adj.)"
+      },
+      "back": {
+        "text": "เกี่ยวกับราชวงศ์\n\nตัวอย่าง: The royal garden opens every morning.\nสวนหลวงเปิดทุกเช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2058",
+      "front": {
+        "text": "safety\n(n.)"
+      },
+      "back": {
+        "text": "ความปลอดภัย\n\nตัวอย่าง: Wear a helmet for your safety.\nสวมหมวกกันน็อกเพื่อความปลอดภัยของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2059",
+      "front": {
+        "text": "sailor\n(n.)"
+      },
+      "back": {
+        "text": "กะลาสีเรือ\n\nตัวอย่าง: The sailor checked the weather before leaving.\nกะลาสีเรือตรวจสภาพอากาศก่อนออกเดินทาง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2060",
+      "front": {
+        "text": "sample\n(n., v.)"
+      },
+      "back": {
+        "text": "ตัวอย่าง; สุ่มตัวอย่าง\n\nตัวอย่าง: The museum displayed a sample of ancient cloth.\nพิพิธภัณฑ์จัดแสดงตัวอย่างผ้าโบราณ\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2061",
+      "front": {
+        "text": "sand\n(n.)"
+      },
+      "back": {
+        "text": "ทราย\n\nตัวอย่าง: The children built a castle from sand.\nเด็ก ๆ สร้างปราสาทจากทราย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2062",
+      "front": {
+        "text": "scan\n(v.)"
+      },
+      "back": {
+        "text": "สแกน\n\nตัวอย่าง: Scan the code with your phone.\nสแกนรหัสด้วยโทรศัพท์ของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2063",
+      "front": {
+        "text": "scientific\n(adj.)"
+      },
+      "back": {
+        "text": "ทางวิทยาศาสตร์\n\nตัวอย่าง: The report gives scientific evidence for the claim.\nรายงานให้หลักฐานทางวิทยาศาสตร์สำหรับข้ออ้างนั้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2064",
+      "front": {
+        "text": "script\n(n.)"
+      },
+      "back": {
+        "text": "บทภาพยนตร์; สคริปต์\n\nตัวอย่าง: The actors read the script together.\nนักแสดงอ่านบทภาพยนตร์ด้วยกัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2065",
+      "front": {
+        "text": "sculpture\n(n.)"
+      },
+      "back": {
+        "text": "ประติมากรรม\n\nตัวอย่าง: A stone sculpture stands outside the library.\nประติมากรรมหินตั้งอยู่หน้าห้องสมุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2066",
+      "front": {
+        "text": "secondary\n(adj.)"
+      },
+      "back": {
+        "text": "รอง; ระดับมัธยม\n\nตัวอย่าง: She attends a secondary school nearby.\nเธอเรียนอยู่โรงเรียนมัธยมใกล้ๆ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2067",
+      "front": {
+        "text": "security\n(n.)"
+      },
+      "back": {
+        "text": "ความมั่นคง; ความปลอดภัย\n\nตัวอย่าง: Airport security checked our bags.\nเจ้าหน้าที่รักษาความปลอดภัยสนามบินตรวจสัมภาระของเรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2068",
+      "front": {
+        "text": "sensible\n(adj.)"
+      },
+      "back": {
+        "text": "มีเหตุผล\n\nตัวอย่าง: It is sensible to carry an umbrella.\nการพกร่มเป็นเรื่องมีเหตุผล"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2069",
+      "front": {
+        "text": "seriously\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างจริงจัง\n\nตัวอย่าง: Please take the warning seriously.\nกรุณาให้ความสำคัญกับคำเตือนอย่างจริงจัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2070",
+      "front": {
+        "text": "servant\n(n.)"
+      },
+      "back": {
+        "text": "คนรับใช้\n\nตัวอย่าง: The servant brought tea to the guests.\nคนรับใช้ยกชาให้แขก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2071",
+      "front": {
+        "text": "set (put)\n(v.)"
+      },
+      "back": {
+        "text": "วาง; ตั้ง\n\nตัวอย่าง: Set the cup carefully on the table.\nวางถ้วยบนโต๊ะอย่างระมัดระวัง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2072",
+      "front": {
+        "text": "set (group)\n(n.)"
+      },
+      "back": {
+        "text": "ชุด; กลุ่ม\n\nตัวอย่าง: She bought a set of coloured pencils.\nเธอซื้อชุดดินสอสีหนึ่งชุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2073",
+      "front": {
+        "text": "setting\n(n.)"
+      },
+      "back": {
+        "text": "การตั้งค่า; สถานที่\n\nตัวอย่าง: Change the privacy setting on your phone.\nเปลี่ยนการตั้งค่าความเป็นส่วนตัวในโทรศัพท์ของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2074",
+      "front": {
+        "text": "sex\n(n.)"
+      },
+      "back": {
+        "text": "เพศ\n\nตัวอย่าง: The form asks for your sex.\nแบบฟอร์มถามเพศของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2075",
+      "front": {
+        "text": "sexual\n(adj.)"
+      },
+      "back": {
+        "text": "ทางเพศ\n\nตัวอย่าง: The school teaches sexual health respectfully.\nโรงเรียนสอนเรื่องสุขภาพทางเพศอย่างให้เกียรติ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2076",
+      "front": {
+        "text": "sharp\n(adj.)"
+      },
+      "back": {
+        "text": "คม\n\nตัวอย่าง: Be careful: this knife is sharp.\nระวังนะ มีดเล่มนี้คม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2077",
+      "front": {
+        "text": "shelf\n(n.)"
+      },
+      "back": {
+        "text": "ชั้นวาง\n\nตัวอย่าง: The cook placed the jars on the top shelf.\nพ่อครัววางขวดโหลไว้บนชั้นบนสุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2078",
+      "front": {
+        "text": "shell\n(n.)"
+      },
+      "back": {
+        "text": "เปลือก\n\nตัวอย่าง: The child found a shell on the beach.\nเด็กพบเปลือกหอยบนชายหาด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2079",
+      "front": {
+        "text": "shine\n(v.)"
+      },
+      "back": {
+        "text": "ส่องแสง\n\nตัวอย่าง: The stars shine brightly tonight.\nคืนนี้ดวงดาวส่องแสงอย่างสว่างไสว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2080",
+      "front": {
+        "text": "shiny\n(adj.)"
+      },
+      "back": {
+        "text": "มันวาว\n\nตัวอย่าง: He wore shiny black shoes.\nเขาสวมรองเท้าสีดำมันวาว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2081",
+      "front": {
+        "text": "shoot\n(v.)"
+      },
+      "back": {
+        "text": "ยิง\n\nตัวอย่าง: The photographer will shoot the wedding outdoors.\nช่างภาพจะถ่ายภาพงานแต่งงานกลางแจ้ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2082",
+      "front": {
+        "text": "shy\n(adj.)"
+      },
+      "back": {
+        "text": "ขี้อาย\n\nตัวอย่าง: The shy student rarely speaks first.\nนักเรียนที่ขี้อายไม่ค่อยเป็นฝ่ายพูดก่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2083",
+      "front": {
+        "text": "sight\n(n.)"
+      },
+      "back": {
+        "text": "สายตา; ภาพที่เห็น\n\nตัวอย่าง: The mountain was an amazing sight.\nภูเขานั้นเป็นภาพที่น่าทึ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2084",
+      "front": {
+        "text": "signal\n(n., v.)"
+      },
+      "back": {
+        "text": "สัญญาณ; ส่งสัญญาณ\n\nตัวอย่าง: The guard signaled for us to stop.\nเจ้าหน้าที่ส่งสัญญาณให้เราหยุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2085",
+      "front": {
+        "text": "silent\n(adj.)"
+      },
+      "back": {
+        "text": "เงียบ\n\nตัวอย่าง: The room became silent when he entered.\nห้องเงียบลงเมื่อเขาเดินเข้ามา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2086",
+      "front": {
+        "text": "silly\n(adj.)"
+      },
+      "back": {
+        "text": "โง่; งี่เง่า\n\nตัวอย่าง: It was a silly mistake, but nobody was hurt.\nมันเป็นความผิดพลาดงี่เง่าแต่ไม่มีใครบาดเจ็บ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2087",
+      "front": {
+        "text": "similarity\n(n.)"
+      },
+      "back": {
+        "text": "ความคล้ายคลึง\n\nตัวอย่าง: There is a clear similarity between the designs.\nมีความคล้ายคลึงที่ชัดเจนระหว่างแบบออกแบบทั้งสอง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2088",
+      "front": {
+        "text": "similarly\n(adv.)"
+      },
+      "back": {
+        "text": "ในทำนองเดียวกัน\n\nตัวอย่าง: The second group performed similarly well.\nกลุ่มที่สองทำผลงานได้ดีในทำนองเดียวกัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2089",
+      "front": {
+        "text": "simply\n(adv.)"
+      },
+      "back": {
+        "text": "เพียงแค่\n\nตัวอย่าง: I simply forgot the appointment.\nฉันแค่ลืมนัดหมาย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2090",
+      "front": {
+        "text": "slave\n(n.)"
+      },
+      "back": {
+        "text": "ทาส\n\nตัวอย่าง: The museum tells the story of an escaped slave.\nพิพิธภัณฑ์เล่าเรื่องของทาสที่หลบหนี"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2091",
+      "front": {
+        "text": "slice\n(n., v.)"
+      },
+      "back": {
+        "text": "ชิ้นบาง; หั่นเป็นชิ้น\n\nตัวอย่าง: Would you like a slice of cake?\nคุณอยากได้เค้กหนึ่งชิ้นไหม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2092",
+      "front": {
+        "text": "slightly\n(adv.)"
+      },
+      "back": {
+        "text": "เล็กน้อย\n\nตัวอย่าง: The price is slightly lower online.\nราคาทางออนไลน์ต่ำกว่าเล็กน้อย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2093",
+      "front": {
+        "text": "smooth\n(adj.)"
+      },
+      "back": {
+        "text": "เรียบลื่น\n\nตัวอย่าง: The table has a smooth surface.\nโต๊ะมีพื้นผิวเรียบลื่น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2094",
+      "front": {
+        "text": "software\n(n.)"
+      },
+      "back": {
+        "text": "ซอฟต์แวร์\n\nตัวอย่าง: Install the software before the lesson.\nติดตั้งซอฟต์แวร์ก่อนเริ่มบทเรียน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2095",
+      "front": {
+        "text": "soil\n(n.)"
+      },
+      "back": {
+        "text": "ดิน\n\nตัวอย่าง: The soil here is rich and dark.\nดินที่นี่อุดมสมบูรณ์และมีสีเข้ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2096",
+      "front": {
+        "text": "solid\n(adj., n.)"
+      },
+      "back": {
+        "text": "แข็ง; ของแข็ง\n\nตัวอย่าง: Ice becomes solid when it freezes.\nน้ำกลายเป็นของแข็งเมื่อแข็งตัว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2097",
+      "front": {
+        "text": "southern\n(adj.)"
+      },
+      "back": {
+        "text": "ทางตอนใต้\n\nตัวอย่าง: They visited a southern island.\nพวกเขาไปเยือนเกาะทางตอนใต้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2098",
+      "front": {
+        "text": "specifically\n(adv.)"
+      },
+      "back": {
+        "text": "โดยเฉพาะ\n\nตัวอย่าง: The guide specifically mentioned this rule.\nคู่มือกล่าวถึงกฎข้อนี้โดยเฉพาะ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2099",
+      "front": {
+        "text": "spending\n(n.)"
+      },
+      "back": {
+        "text": "การใช้จ่าย\n\nตัวอย่าง: Government spending increased this year.\nการใช้จ่ายของรัฐบาลเพิ่มขึ้นในปีนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2100",
+      "front": {
+        "text": "spicy\n(adj.)"
+      },
+      "back": {
+        "text": "เผ็ด\n\nตัวอย่าง: This curry is too spicy for me.\nแกงนี้เผ็ดเกินไปสำหรับฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2101",
+      "front": {
+        "text": "spoken\n(adj.)"
+      },
+      "back": {
+        "text": "พูดแล้ว\n\nตัวอย่าง: Spoken English takes regular practice.\nภาษาอังกฤษที่ใช้พูดต้องอาศัยการฝึกฝนเป็นประจำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2102",
+      "front": {
+        "text": "spot\n(n., v.)"
+      },
+      "back": {
+        "text": "จุด\n\nตัวอย่าง: I spotted a mistake in the report.\nฉันพบข้อผิดพลาดในรายงาน\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2103",
+      "front": {
+        "text": "spread\n(v., n.)"
+      },
+      "back": {
+        "text": "อาหารที่จัดวางหลากหลาย\n\nตัวอย่าง: Spread butter on the warm bread.\nทาเนยบนขนมปังอุ่น ๆ\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2104",
+      "front": {
+        "text": "stadium\n(n.)"
+      },
+      "back": {
+        "text": "สนามกีฬา\n\nตัวอย่าง: The concert filled the stadium.\nคอนเสิร์ตทำให้สนามกีฬาเต็ม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2105",
+      "front": {
+        "text": "staff\n(n.)"
+      },
+      "back": {
+        "text": "พนักงาน\n\nตัวอย่าง: The hotel staff were very helpful.\nพนักงานโรงแรมช่วยเหลือดีมาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2106",
+      "front": {
+        "text": "standard\n(n., adj.)"
+      },
+      "back": {
+        "text": "มาตรฐาน\n\nตัวอย่าง: This work meets a high standard.\nงานนี้ได้มาตรฐานสูง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2107",
+      "front": {
+        "text": "statistic\n(n.)"
+      },
+      "back": {
+        "text": "สถิติ\n\nตัวอย่าง: This statistic comes from a recent survey.\nสถิตินี้มาจากแบบสำรวจล่าสุด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2108",
+      "front": {
+        "text": "statue\n(n.)"
+      },
+      "back": {
+        "text": "รูปปั้น\n\nตัวอย่าง: The statue stands in the city square.\nรูปปั้นตั้งอยู่ในจัตุรัสกลางเมือง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2109",
+      "front": {
+        "text": "stick (push into/attach)\n(v.)"
+      },
+      "back": {
+        "text": "เสียบ; ติดเข้ากับ\n\nตัวอย่าง: Stick the label onto the box.\nติดฉลากลงบนกล่อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2110",
+      "front": {
+        "text": "stick (piece of wood)\n(n.)"
+      },
+      "back": {
+        "text": "ไม้แท่ง\n\nตัวอย่าง: The dog carried a stick in its mouth.\nสุนัขคาบไม้แท่งหนึ่งไว้ในปาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2111",
+      "front": {
+        "text": "stranger\n(n.)"
+      },
+      "back": {
+        "text": "คนแปลกหน้า\n\nตัวอย่าง: Never share personal details with a stranger.\nอย่าแชร์ข้อมูลส่วนตัวกับคนแปลกหน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2112",
+      "front": {
+        "text": "string\n(n.)"
+      },
+      "back": {
+        "text": "เชือก\n\nตัวอย่าง: Tie the parcel with a piece of string.\nมัดพัสดุด้วยเชือกเส้นหนึ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2113",
+      "front": {
+        "text": "strongly\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างยิ่ง\n\nตัวอย่าง: I strongly recommend this book.\nฉันแนะนำหนังสือเล่มนี้อย่างยิ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2114",
+      "front": {
+        "text": "studio\n(n.)"
+      },
+      "back": {
+        "text": "สตูดิโอ\n\nตัวอย่าง: The band recorded the song in a studio.\nวงดนตรีบันทึกเพลงในสตูดิโอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2115",
+      "front": {
+        "text": "stuff\n(n., v.)"
+      },
+      "back": {
+        "text": "สิ่งของ\n\nตัวอย่าง: Please put your stuff in the locker.\nกรุณาใส่สิ่งของของคุณไว้ในล็อกเกอร์\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2116",
+      "front": {
+        "text": "substance\n(n.)"
+      },
+      "back": {
+        "text": "สสาร, เนื้อหาสาระ\n\nตัวอย่าง: Water is a common substance.\nน้ำเป็นสสารที่พบได้ทั่วไป"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2117",
+      "front": {
+        "text": "successfully\n(adv.)"
+      },
+      "back": {
+        "text": "อย่างสำเร็จ\n\nตัวอย่าง: She successfully completed the course.\nเธอเรียนจบหลักสูตรได้สำเร็จ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2118",
+      "front": {
+        "text": "sudden\n(adj.)"
+      },
+      "back": {
+        "text": "ฉับพลัน\n\nตัวอย่าง: A sudden wind closed the door.\nลมที่พัดฉับพลันทำให้ประตูปิด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2119",
+      "front": {
+        "text": "suffer\n(v.)"
+      },
+      "back": {
+        "text": "ทุกข์ทรมาน, ประสบ(ความเสียหาย)\n\nตัวอย่าง: The town suffered serious flood damage.\nเมืองประสบความเสียหายรุนแรงจากน้ำท่วม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2120",
+      "front": {
+        "text": "suitable\n(adj.)"
+      },
+      "back": {
+        "text": "คู่ควร, เหมาะสม, สมควร\n\nตัวอย่าง: This job is suitable for beginners.\nงานนี้เหมาะสมสำหรับผู้เริ่มต้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2121",
+      "front": {
+        "text": "summarize\n(v.)"
+      },
+      "back": {
+        "text": "สรุป\n\nตัวอย่าง: Please summarize the main points.\nกรุณาสรุปประเด็นหลัก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2122",
+      "front": {
+        "text": "summary\n(n.)"
+      },
+      "back": {
+        "text": "โดยสรุป\n\nตัวอย่าง: Here is a brief summary of the meeting.\nนี่คือบทสรุปสั้น ๆของการประชุม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2123",
+      "front": {
+        "text": "supporter\n(n.)"
+      },
+      "back": {
+        "text": "ผู้สนับสนุน\n\nตัวอย่าง: Every supporter wore the team colors.\nผู้สนับสนุนทุกคนสวมสีของทีม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2124",
+      "front": {
+        "text": "surely\n(adv.)"
+      },
+      "back": {
+        "text": "แน่นอน\n\nตัวอย่าง: Surely they will understand the problem.\nแน่นอนว่าพวกเขาจะเข้าใจปัญหา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2125",
+      "front": {
+        "text": "surface\n(n.)"
+      },
+      "back": {
+        "text": "พื้นผิว, พื้นหน้า, ปรากฏขึ้น\n\nตัวอย่าง: The surface of the water was calm.\nพื้นผิวของน้ำสงบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2126",
+      "front": {
+        "text": "survive\n(v.)"
+      },
+      "back": {
+        "text": "มีชีวิตอยู่, อยู่รอด, รอดตาย, ดำรงอยู่\n\nตัวอย่าง: Few plants can survive without water.\nพืชไม่กี่ชนิดสามารถอยู่รอดได้โดยไม่มีน้ำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2127",
+      "front": {
+        "text": "switch\n(v., n.)"
+      },
+      "back": {
+        "text": "สวิตช์\n\nตัวอย่าง: Switch off the lights before you leave.\nปิดสวิตช์ไฟก่อนออกไป\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2128",
+      "front": {
+        "text": "symptom\n(n.)"
+      },
+      "back": {
+        "text": "แสดงอาการ\n\nตัวอย่าง: A fever can be a symptom of infection.\nไข้สามารถเป็นอาการของการติดเชื้อได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2129",
+      "front": {
+        "text": "tail\n(n.)"
+      },
+      "back": {
+        "text": "หาง\n\nตัวอย่าง: The dog wagged its tail happily.\nสุนัขแกว่งหางอย่างมีความสุข"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2130",
+      "front": {
+        "text": "talent\n(n.)"
+      },
+      "back": {
+        "text": "พรสวรรค์\n\nตัวอย่าง: Her talent for music was clear early.\nพรสวรรค์ด้านดนตรีของเธอเห็นได้ชัดตั้งแต่แรก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2131",
+      "front": {
+        "text": "talented\n(adj.)"
+      },
+      "back": {
+        "text": "มีความสามารถ\n\nตัวอย่าง: He is a talented young photographer.\nเขาเป็นช่างภาพหนุ่มที่มีความสามารถ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2132",
+      "front": {
+        "text": "tape\n(n.)"
+      },
+      "back": {
+        "text": "เทป\n\nตัวอย่าง: Use tape to seal the box.\nใช้เทปปิดผนึกกล่อง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2133",
+      "front": {
+        "text": "tax\n(n., v.)"
+      },
+      "back": {
+        "text": "ภาษี\n\nตัวอย่าง: The government raised tax on cigarettes.\nรัฐบาลขึ้นภาษีบุหรี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2134",
+      "front": {
+        "text": "technique\n(n.)"
+      },
+      "back": {
+        "text": "เทคนิค\n\nตัวอย่าง: The chef showed us a cutting technique.\nเชฟสาธิตเทคนิคการหั่นให้เรา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2135",
+      "front": {
+        "text": "tend\n(v.)"
+      },
+      "back": {
+        "text": "มีแนวโน้มที่จะ\n\nตัวอย่าง: Children tend to wake up early.\nเด็ก ๆ มักจะตื่นเช้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2136",
+      "front": {
+        "text": "tent\n(n.)"
+      },
+      "back": {
+        "text": "เต็นท์\n\nตัวอย่าง: They slept in a tent by the river.\nพวกเขานอนในเต็นท์ริมแม่น้ำ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2137",
+      "front": {
+        "text": "theirs\n(pron.)"
+      },
+      "back": {
+        "text": "พวกเขา\n\nตัวอย่าง: Those umbrellas are theirs.\nร่มเหล่านั้นเป็นของพวกเขา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2138",
+      "front": {
+        "text": "theme\n(n.)"
+      },
+      "back": {
+        "text": "ธีม\n\nตัวอย่าง: The theme of the festival is friendship.\nธีมของเทศกาลคือมิตรภาพ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2139",
+      "front": {
+        "text": "theory\n(n.)"
+      },
+      "back": {
+        "text": "ฤษฎี\n\nตัวอย่าง: Her theory explains the strange sound.\nทฤษฎีของเธออธิบายเสียงประหลาดนั้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2140",
+      "front": {
+        "text": "therefore\n(adv.)"
+      },
+      "back": {
+        "text": "ดังนั้น\n\nตัวอย่าง: The road was closed; therefore, we walked.\nถนนปิด ดังนั้นเราจึงเดิน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2141",
+      "front": {
+        "text": "though\n(conj., adv.)"
+      },
+      "back": {
+        "text": "แม้ว่า\n\nตัวอย่าง: Though it rained, we enjoyed the picnic.\nแม้ฝนตกเราก็สนุกกับการปิกนิก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2142",
+      "front": {
+        "text": "throat\n(n.)"
+      },
+      "back": {
+        "text": "คอหอย\n\nตัวอย่าง: My throat hurts when I swallow.\nคอหอยของฉันเจ็บเมื่อกลืน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2143",
+      "front": {
+        "text": "throughout\n(prep./adv.)"
+      },
+      "back": {
+        "text": "ตลอด\n\nตัวอย่าง: It rained throughout the afternoon.\nฝนตกตลอดช่วงบ่าย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2144",
+      "front": {
+        "text": "tight\n(adj.)"
+      },
+      "back": {
+        "text": "แน่น\n\nตัวอย่าง: These shoes feel too tight.\nรองเท้าคู่นี้คับเกินไป"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2145",
+      "front": {
+        "text": "tiny\n(adj.)"
+      },
+      "back": {
+        "text": "เล็ก ๆ\n\nตัวอย่าง: A tiny bird sat on the fence.\nนกตัวเล็กจิ๋วเกาะอยู่บนรั้ว"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2146",
+      "front": {
+        "text": "tire\n(n.)"
+      },
+      "back": {
+        "text": "ยาง\n\nตัวอย่าง: The car needs a new tire.\nรถคันนี้ต้องการยางเส้นใหม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2147",
+      "front": {
+        "text": "toe\n(n.)"
+      },
+      "back": {
+        "text": "นิ้วเท้า\n\nตัวอย่าง: I hurt my toe on the stairs.\nฉันทำให้นิ้วเท้าเจ็บที่บันได"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2148",
+      "front": {
+        "text": "ton\n(n.)"
+      },
+      "back": {
+        "text": "ตัน\n\nตัวอย่าง: The truck can carry one ton.\nรถบรรทุกสามารถบรรทุกได้หนึ่งตัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2149",
+      "front": {
+        "text": "tongue\n(n.)"
+      },
+      "back": {
+        "text": "ลิ้น\n\nตัวอย่าง: The hot soup burned my tongue.\nซุปร้อนลวกลิ้นของฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2150",
+      "front": {
+        "text": "total\n(adj., n.)"
+      },
+      "back": {
+        "text": "ทั้งหมด\n\nตัวอย่าง: The total cost was five hundred baht.\nค่าใช้จ่ายทั้งหมดคือห้าร้อยบาท"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2151",
+      "front": {
+        "text": "totally\n(adv.)"
+      },
+      "back": {
+        "text": "โดยสิ้นเชิง\n\nตัวอย่าง: I totally forgot about the appointment.\nฉันลืมนัดไปโดยสิ้นเชิง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2152",
+      "front": {
+        "text": "trade\n(n., v.)"
+      },
+      "back": {
+        "text": "การค้าขาย\n\nตัวอย่าง: Trade between the two countries increased.\nการค้าระหว่างสองประเทศเพิ่มขึ้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2153",
+      "front": {
+        "text": "trainer\n(n.)"
+      },
+      "back": {
+        "text": "ผู้ฝึกสอน\n\nตัวอย่าง: Our trainer explains each exercise clearly.\nผู้ฝึกสอนของเราอธิบายการออกกำลังกายแต่ละท่าอย่างชัดเจน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2154",
+      "front": {
+        "text": "translate\n(v.)"
+      },
+      "back": {
+        "text": "แปล\n\nตัวอย่าง: Can you translate this letter?\nคุณแปลจดหมายฉบับนี้ได้ไหม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2155",
+      "front": {
+        "text": "translation\n(n.)"
+      },
+      "back": {
+        "text": "การแปล\n\nตัวอย่าง: Her translation is accurate and clear.\nคำแปลของเธอถูกต้องและชัดเจน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2156",
+      "front": {
+        "text": "treat\n(v.)"
+      },
+      "back": {
+        "text": "รักษา\n\nตัวอย่าง: Doctors treat the illness with medicine.\nแพทย์รักษาโรคด้วยยา"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2157",
+      "front": {
+        "text": "treatment\n(n.)"
+      },
+      "back": {
+        "text": "การรักษา\n\nตัวอย่าง: The treatment relieved her pain.\nการรักษาช่วยบรรเทาความเจ็บปวดของเธอ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2158",
+      "front": {
+        "text": "trend\n(n.)"
+      },
+      "back": {
+        "text": "แนวโน้ม\n\nตัวอย่าง: This trend is growing quickly online.\nแนวโน้มนี้กำลังเติบโตอย่างรวดเร็วทางออนไลน์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2159",
+      "front": {
+        "text": "trick\n(n., v.)"
+      },
+      "back": {
+        "text": "เคล็ดลับ\n\nตัวอย่าง: He used a trick to remember names.\nเขาใช้เคล็ดลับเพื่อจำชื่อคน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2160",
+      "front": {
+        "text": "truth\n(n.)"
+      },
+      "back": {
+        "text": "ความจริง\n\nตัวอย่าง: Tell me the truth, please.\nโปรดบอกความจริงกับฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2161",
+      "front": {
+        "text": "tube\n(n.)"
+      },
+      "back": {
+        "text": "หลอด\n\nตัวอย่าง: The paint comes in a tube.\nสีมาในหลอด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2162",
+      "front": {
+        "text": "typically\n(adv.)"
+      },
+      "back": {
+        "text": "โดยทั่วไปแล้ว\n\nตัวอย่าง: We typically eat dinner at home.\nโดยทั่วไปเรากินอาหารเย็นที่บ้าน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2163",
+      "front": {
+        "text": "ugly\n(adj.)"
+      },
+      "back": {
+        "text": "น่าเกลียด\n\nตัวอย่าง: The old wall looked ugly.\nกำแพงเก่าดูไม่น่ามอง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2164",
+      "front": {
+        "text": "unable\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่สามารถ\n\nตัวอย่าง: I was unable to open the file.\nฉันไม่สามารถเปิดไฟล์ได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2165",
+      "front": {
+        "text": "uncomfortable\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่สบาย\n\nตัวอย่าง: These shoes feel uncomfortable today.\nรองเท้าคู่นี้ทำให้รู้สึกไม่สบายวันนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2166",
+      "front": {
+        "text": "underwear\n(n.)"
+      },
+      "back": {
+        "text": "ชุดชั้นใน\n\nตัวอย่าง: Pack clean underwear for the trip.\nจัดชุดชั้นในสะอาดสำหรับการเดินทาง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2167",
+      "front": {
+        "text": "unemployment\n(n.)"
+      },
+      "back": {
+        "text": "การว่างงาน\n\nตัวอย่าง: Unemployment increased during the recession.\nการว่างงานเพิ่มขึ้นในช่วงเศรษฐกิจถดถอย"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2168",
+      "front": {
+        "text": "unfair\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่ยุติธรรม\n\nตัวอย่าง: It is unfair to blame her.\nการโทษเธอไม่ยุติธรรม"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2169",
+      "front": {
+        "text": "union\n(n.)"
+      },
+      "back": {
+        "text": "สหภาพ\n\nตัวอย่าง: The workers joined a union.\nคนงานเข้าร่วมสหภาพ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2170",
+      "front": {
+        "text": "unless\n(conj.)"
+      },
+      "back": {
+        "text": "เว้นแต่\n\nตัวอย่าง: We cannot leave unless it stops raining.\nเราออกไปไม่ได้เว้นแต่ฝนจะหยุดตก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2171",
+      "front": {
+        "text": "unlike\n(prep.)"
+      },
+      "back": {
+        "text": "ไม่เหมือน\n\nตัวอย่าง: Unlike me, she enjoys running.\nไม่เหมือนฉัน เธอชอบวิ่ง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2172",
+      "front": {
+        "text": "unlikely\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่น่าเป็นไปได้\n\nตัวอย่าง: Rain is unlikely this afternoon.\nฝนไม่น่าจะตกในบ่ายนี้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2173",
+      "front": {
+        "text": "unnecessary\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่จำเป็น\n\nตัวอย่าง: That extra step seems unnecessary.\nขั้นตอนเพิ่มเติมนั้นดูไม่จำเป็น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2174",
+      "front": {
+        "text": "unpleasant\n(adj.)"
+      },
+      "back": {
+        "text": "ไม่พึงประสงค์\n\nตัวอย่าง: There was an unpleasant smell inside.\nมีกลิ่นไม่พึงประสงค์อยู่ข้างใน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2175",
+      "front": {
+        "text": "update\n(v., n.)"
+      },
+      "back": {
+        "text": "อัปเดต\n\nตัวอย่าง: Please update your contact details.\nโปรดอัปเดตรายละเอียดการติดต่อของคุณ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2176",
+      "front": {
+        "text": "upon\n(prep.)"
+      },
+      "back": {
+        "text": "เมื่อ\n\nตัวอย่าง: Upon arrival, please call me.\nเมื่อมาถึง โปรดโทรหาฉัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2177",
+      "front": {
+        "text": "upset\n(adj., v.)"
+      },
+      "back": {
+        "text": "อารมณ์เสีย, โกรธ\n\nตัวอย่าง: She was upset by the news.\nเธออารมณ์เสียเพราะข่าวนั้น"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2178",
+      "front": {
+        "text": "used\n(adj.)"
+      },
+      "back": {
+        "text": "ใช้แล้ว; มือสอง\n\nตัวอย่าง: She bought a used bicycle.\nเธอซื้อจักรยานมือสอง"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2179",
+      "front": {
+        "text": "valuable\n(adj.)"
+      },
+      "back": {
+        "text": "มีคุณค่า, มีค่า, มีราคา\n\nตัวอย่าง: This painting is very valuable.\nภาพวาดนี้มีค่ามาก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2180",
+      "front": {
+        "text": "value\n(n., v.)"
+      },
+      "back": {
+        "text": "ค่า\n\nตัวอย่าง: We value honest feedback greatly.\nเราให้คุณค่ากับข้อเสนอแนะที่ซื่อสัตย์มาก\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2181",
+      "front": {
+        "text": "various\n(adj.)"
+      },
+      "back": {
+        "text": "ต่างๆ\n\nตัวอย่าง: Various people offered helpful advice.\nผู้คนหลายคนให้คำแนะนำที่เป็นประโยชน์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2182",
+      "front": {
+        "text": "version\n(n.)"
+      },
+      "back": {
+        "text": "รุ่น\n\nตัวอย่าง: Install the latest version first.\nติดตั้งรุ่นล่าสุดก่อน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2183",
+      "front": {
+        "text": "victim\n(n.)"
+      },
+      "back": {
+        "text": "เหยื่อ, ผู้เคราะห์ร้าย\n\nตัวอย่าง: The victim called the police.\nผู้เคราะห์ร้ายโทรแจ้งตำรวจ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2184",
+      "front": {
+        "text": "viewer\n(n.)"
+      },
+      "back": {
+        "text": "ผู้ดู\n\nตัวอย่าง: Thousands of viewers watched live.\nผู้ชมหลายพันคนรับชมการถ่ายทอดสด"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2185",
+      "front": {
+        "text": "violent\n(adj.)"
+      },
+      "back": {
+        "text": "ที่รุนแรง\n\nตัวอย่าง: The storm became violent overnight.\nพายุรุนแรงขึ้นในชั่วข้ามคืน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2186",
+      "front": {
+        "text": "volunteer\n(n., v.)"
+      },
+      "back": {
+        "text": "อาสาสมัคร\n\nตัวอย่าง: He volunteers at the animal shelter.\nเขาเป็นอาสาสมัครที่ศูนย์พักพิงสัตว์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2187",
+      "front": {
+        "text": "vote\n(n., v.)"
+      },
+      "back": {
+        "text": "การลงคะแนนเสียง\n\nตัวอย่าง: Citizens will vote next Sunday.\nประชาชนจะลงคะแนนเสียงวันอาทิตย์หน้า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2188",
+      "front": {
+        "text": "warn\n(v.)"
+      },
+      "back": {
+        "text": "เตือน\n\nตัวอย่าง: The guide warned us about the steep path.\nไกด์เตือนเราเกี่ยวกับทางเดินที่สูงชัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2189",
+      "front": {
+        "text": "waste\n(n., v., adj.)"
+      },
+      "back": {
+        "text": "ขยะ\n\nตัวอย่าง: Do not waste food.\nอย่าทำให้อาหารสูญเปล่า"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2190",
+      "front": {
+        "text": "weapon\n(n.)"
+      },
+      "back": {
+        "text": "อาวุธ, จัดหาอาวุธ\n\nตัวอย่าง: The guard carried a weapon.\nเจ้าหน้าที่รักษาความปลอดภัยพกอาวุธ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2191",
+      "front": {
+        "text": "weigh\n(v.)"
+      },
+      "back": {
+        "text": "ชั่งน้ำหนัก\n\nตัวอย่าง: The doctor weighed the baby.\nแพทย์ชั่งน้ำหนักทารก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2192",
+      "front": {
+        "text": "western\n(adj.)"
+      },
+      "back": {
+        "text": "ตะวันตก\n\nตัวอย่าง: Western music is popular here.\nดนตรีตะวันตกเป็นที่นิยมที่นี่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2193",
+      "front": {
+        "text": "whatever\n(det./pron.)"
+      },
+      "back": {
+        "text": "อะไรก็ตาม\n\nตัวอย่าง: Choose whatever color you like.\nเลือกสีอะไรก็ได้ที่คุณชอบ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2194",
+      "front": {
+        "text": "whenever\n(conj.)"
+      },
+      "back": {
+        "text": "เมื่อใดก็ตามที่\n\nตัวอย่าง: You can call whenever you need help.\nคุณโทรมาได้ทุกเมื่อที่ต้องการความช่วยเหลือ"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2195",
+      "front": {
+        "text": "whether\n(conj.)"
+      },
+      "back": {
+        "text": "ไม่ว่า/หรือไม่\n\nตัวอย่าง: I do not know whether she is coming.\nฉันไม่รู้ว่าเธอจะมาหรือไม่"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2196",
+      "front": {
+        "text": "wing\n(n.)"
+      },
+      "back": {
+        "text": "ปีก\n\nตัวอย่าง: The bird injured its wing.\nนกบาดเจ็บที่ปีก"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2197",
+      "front": {
+        "text": "within\n(prep.)"
+      },
+      "back": {
+        "text": "ภายใน\n\nตัวอย่าง: Please reply within three days.\nกรุณาตอบกลับภายในสามวัน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2198",
+      "front": {
+        "text": "wonder\n(v., n.)"
+      },
+      "back": {
+        "text": "สงสัย\n\nตัวอย่าง: I wonder where he went.\nฉันสงสัยว่าเขาไปที่ไหน"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2199",
+      "front": {
+        "text": "wool\n(n.)"
+      },
+      "back": {
+        "text": "ขนสัตว์\n\nตัวอย่าง: This sweater is made of wool.\nเสื้อกันหนาวตัวนี้ทำจากขนสัตว์"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2200",
+      "front": {
+        "text": "worth\n(adj., n.)"
+      },
+      "back": {
+        "text": "คุ้มค่า\n\nตัวอย่าง: This old phone is still worth repairing.\nโทรศัพท์เก่านี้ยังคุ้มค่าที่จะซ่อม\n\nระดับในต้นฉบับ: B1/B2 (ต้นฉบับไม่ได้แยกความหมายและชนิดคำตามระดับ)"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2201",
+      "front": {
+        "text": "written\n(adj.)"
+      },
+      "back": {
+        "text": "เขียน\n\nตัวอย่าง: We need written permission to enter.\nเราต้องได้รับอนุญาตเป็นลายลักษณ์อักษรจึงจะเข้าได้"
+      }
+    },
+    {
+      "id": "oxford3000-b1-row-2202",
+      "front": {
+        "text": "youth\n(n.)"
+      },
+      "back": {
+        "text": "วัยหนุ่มสาว, เยาวชน\n\nตัวอย่าง: The program supports local youth.\nโครงการสนับสนุนเยาวชนในท้องถิ่น"
+      }
+    }
+  ]
+}

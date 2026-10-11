@@ -1,0 +1,15 @@
+{
+  "source": "oxford3000.csv (user supplied)",
+  "sha256": "e79248b29df33d6d9a0b4d1704d2eb7841f4ba80a294dac0543287a3bb156990",
+  "source_rows": 2753,
+  "unique_headwords": 2747,
+  "multiple_level_rows": 273,
+  "cards_per_level": {
+    "A1": 826,
+    "A2": 799,
+    "B1": 742,
+    "B2": 668
+  },
+  "total_cards": 3035,
+  "policy": "Include each source row in every explicitly listed level; preserve translations, examples and part-of-speech labels without inferring sense-to-level mappings."
+}
