@@ -1,0 +1,134 @@
+[
+  {
+    "id": "thailand-basin-01",
+    "basin": "สาละวิน",
+    "code": "01",
+    "image_sha256": "26f18981518c56b3ddfb77476cdcfe9859aa7009009c20c6289452b019878e9c"
+  },
+  {
+    "id": "thailand-basin-02",
+    "basin": "โขงเหนือ",
+    "code": "02",
+    "image_sha256": "5741c15f504d27ff4d011e7c075c9057115f0642de0766c465532ca606c82101"
+  },
+  {
+    "id": "thailand-basin-03",
+    "basin": "โขงตะวันออกเฉียงเหนือ",
+    "code": "03",
+    "image_sha256": "a7091e22ede34718824a09ffb749268dbd1ea4e8e83827c56aaa2726ad20810f"
+  },
+  {
+    "id": "thailand-basin-04",
+    "basin": "ชี",
+    "code": "04",
+    "image_sha256": "3cef495ae32e6f3ecdba412fa1579900b6f2247e4d845d41c67aa312b56e08c1"
+  },
+  {
+    "id": "thailand-basin-05",
+    "basin": "มูล",
+    "code": "05",
+    "image_sha256": "b60900ee1914e77c2d6c9816796bd88f02e8d4b64ca6072dcc0be06bab18e199"
+  },
+  {
+    "id": "thailand-basin-06",
+    "basin": "ปิง",
+    "code": "06",
+    "image_sha256": "f02caa3ec109885cb572001ae2531dd5d90cabefb21c3a49e967fdf910f9b4c7"
+  },
+  {
+    "id": "thailand-basin-07",
+    "basin": "วัง",
+    "code": "07",
+    "image_sha256": "39b079191c409726e087746262326c6346ec665d6d67f65719bd58a1e82f5f1c"
+  },
+  {
+    "id": "thailand-basin-08",
+    "basin": "ยม",
+    "code": "08",
+    "image_sha256": "d679aee0a774d7084ca9f2f6bd9266cd2bf29ca6e3f4077d4791827ecac1d289"
+  },
+  {
+    "id": "thailand-basin-09",
+    "basin": "น่าน",
+    "code": "09",
+    "image_sha256": "26158ed972815523d218d60a8b1a0bb0d844495c2d09530be038a65f640cacfc"
+  },
+  {
+    "id": "thailand-basin-10",
+    "basin": "เจ้าพระยา",
+    "code": "10",
+    "image_sha256": "a932ca232219b8651a76d7e1f9b11237860b156daa406c7b58ad47dae3d2e0c5"
+  },
+  {
+    "id": "thailand-basin-11",
+    "basin": "สะแกกรัง",
+    "code": "11",
+    "image_sha256": "b7cdfb6e31ee2905b86a6334661087345e4d658e55c5d55f9de1c3c3609d1c04"
+  },
+  {
+    "id": "thailand-basin-12",
+    "basin": "ป่าสัก",
+    "code": "12",
+    "image_sha256": "f82ea59022b8a62d07a960233c9f6e0591805ff0f51ffcddb217e892c550d077"
+  },
+  {
+    "id": "thailand-basin-13",
+    "basin": "ท่าจีน",
+    "code": "13",
+    "image_sha256": "95812dc2212d7ada8f3ff466b6d99dcad579fa5ea53f37c53786e6a076874445"
+  },
+  {
+    "id": "thailand-basin-14",
+    "basin": "แม่กลอง",
+    "code": "14",
+    "image_sha256": "4f076e5d28b818c6586f0a70ecad088ac1782f53b4e11c86f42b701bf82540fe"
+  },
+  {
+    "id": "thailand-basin-15",
+    "basin": "บางปะกง",
+    "code": "15",
+    "image_sha256": "8bd4d8d3305a354e192eb3d3895cd03734f62e452337ee99e7efac7c2b202707"
+  },
+  {
+    "id": "thailand-basin-16",
+    "basin": "โตนเลสาบ",
+    "code": "16",
+    "image_sha256": "b536b491adf44c357ae77f830b2504779b22205ad5f945845fd04c3365acd713"
+  },
+  {
+    "id": "thailand-basin-17",
+    "basin": "ชายฝั่งทะเลตะวันออก",
+    "code": "17",
+    "image_sha256": "72f54dd8ec2e6262977927030cd1727f6651e18b1d162c9d7ba4e754ce7fe9bf"
+  },
+  {
+    "id": "thailand-basin-18",
+    "basin": "เพชรบุรี-ประจวบคีรีขันธ์",
+    "code": "18",
+    "image_sha256": "bf9e9ecad743900b0c996d385c207618eac5a8a94f19c90c1dd78a91b6ca422b"
+  },
+  {
+    "id": "thailand-basin-19",
+    "basin": "ภาคใต้ฝั่งตะวันออกตอนบน",
+    "code": "19",
+    "image_sha256": "ac2a463562d7fa49ef297b97c98a42c262508f4b90f96016542673ac134a4ff1"
+  },
+  {
+    "id": "thailand-basin-20",
+    "basin": "ทะเลสาบสงขลา",
+    "code": "20",
+    "image_sha256": "af82da859cfb265a411a7ade9968fbb6a4001cd0d57baf17c55bfc243e36fe68"
+  },
+  {
+    "id": "thailand-basin-21",
+    "basin": "ภาคใต้ฝั่งตะวันออกตอนล่าง",
+    "code": "21",
+    "image_sha256": "3708873a61ca7236f4f752a53cd0272ccf321a00e737dd7b48915bb8a581e46b"
+  },
+  {
+    "id": "thailand-basin-22",
+    "basin": "ภาคใต้ฝั่งตะวันตก",
+    "code": "22",
+    "image_sha256": "b6aadb5caaffb0de6586f895e0e96f1f3e978977101d4c483bf907db515be9e2"
+  }
+]

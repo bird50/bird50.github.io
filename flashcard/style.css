@@ -11,7 +11,8 @@
 .face-label{font-size:12px;font-weight:700;letter-spacing:1px;margin-bottom:22px}
 .face-text{white-space:pre-wrap;font-size:24px;line-height:1.7;max-width:100%}
 .card-face img{display:block;max-width:100%;max-height:230px;object-fit:contain;margin-top:18px}
-.rating-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:20px}
+.rating-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin-top:16px}
+.rating-actions button{min-width:0;min-height:44px;padding:8px 6px;font-size:12px;white-space:nowrap}
 [hidden]{display:none!important}
 .level-unremembered{background:#fcece9;color:#a44839}
 .level-unsure{background:#fff3d8;color:#87600e}
@@ -19,7 +20,7 @@
 .level-counts{display:flex;flex-wrap:wrap;gap:5px;margin:12px 0;font-size:10px;font-weight:500;white-space:normal}
 .level-counts span{padding:5px 7px;border-radius:6px}
 button:disabled{opacity:.55;cursor:wait;transform:none}
-@media(max-width:480px){.rating-actions{grid-template-columns:1fr}.card-face{padding:20px}.face-text{font-size:21px}}
+@media(max-width:480px){.rating-actions{gap:4px}.rating-actions button{padding:8px 2px;font-size:11px;letter-spacing:-.2px}.card-face{padding:20px}.face-text{font-size:21px}}
 @media(prefers-reduced-motion:reduce){.flip-inner{transition:none}}
 .map-card .card-face{padding:14px}.map-card .face-label{margin-bottom:8px}.map-card .face-text{font-size:19px}.map-card .card-face img{width:100%;max-height:none;margin-top:12px}.map-card .answer .face-text{font-size:32px}
 .deck-actions{flex-wrap:wrap}.deck-actions .study{flex:1 1 calc(50% - 6px);white-space:nowrap}.deck-actions .shuffle{background:#eeebf8;color:#68528e}
